@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/trc_e2e_2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C 2023</div><img src='images/trc_e2e_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [End-to-end learning of user equilibrium with implicit neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198835)
@@ -48,6 +48,22 @@ My research interest includes neural machine translation and computer vision. I 
 - Give a very brief explanation for the paper 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C 2022</div><img src='images/trc_rs_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Regulatory policies to electrify ridesourcing systems](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22001760)
+
+**Zhichen Liu**, Zhibin Chen, Yafeng Yin, Zhengtian Xu
+
+[**Poster**](images/ride_sourcing_poster.pdf) [**Talks**](https://www.youtube.com/watch?v=peJASmV25yo&t=1s)
+- Give a very brief explanation for the paper 
+</div>
+</div>
+
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
