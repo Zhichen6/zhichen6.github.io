@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Zhichen Liu**, Yafeng Yin, Fan Bai, Donald K Grimm
 
-[**Poster**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**Poster**](images/e2e_part1_poster.pdf)
 - Give a very brief explanation for the paper 
 </div>
 </div>
