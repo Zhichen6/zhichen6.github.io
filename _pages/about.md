@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2020 - 2025.08 (now)*, Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/)
+- Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/) *2020 - 2025 (now)*
 - *2020.08 - 2024.12*, M.S. in Industrial and Operations Engineering, University of Michigan
 - *2016.08 - 2020.6* B.Eng. in Transportation Engineering, Southeast University, China
 
