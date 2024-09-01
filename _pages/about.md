@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C 2022</div><img src='images/trc_rs_2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C 2022</div><img src='images/trc_rs_2022.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Regulatory policies to electrify ridesourcing systems](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22001760)
