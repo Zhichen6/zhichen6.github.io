@@ -80,14 +80,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2024* *Rackham Predoctoral Fellowship*, University of Michigan
-- *2023* *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo
-- *2023* *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia
-- *2022* *Civil and Environmental Engineering Graduate Fellowship*, University of Michigan
-- *2022* *Team Leader and First-Prize Winner*, National Transportation Technology Tournament
-- *2019* *Finalist*, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications
-- *2018* *Outstanding Student for Academic Achievement*, Southeast University
-- *2017* *China National Scholarship*, China Ministry of Education
+- *Rackham Predoctoral Fellowship*, University of Michigan, *2024* 
+- *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*
+- *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023* 
+- *Civil and Environmental Engineering Graduate Fellowship*, University of Michigan, *2022* 
+- *Team Leader and First-Prize Winner*, National Transportation Technology Tournament, *2022* 
+- *Finalist*, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications, *2019* 
+- *Outstanding Student for Academic Achievement*, Southeast University, *2018* 
+- *2017* *China National Scholarship*, China Ministry of Education, *2017* 
 
 
 # 💬 Invited Talks
