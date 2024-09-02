@@ -93,11 +93,11 @@ My research focuses on integrating game theory and machine learning to support s
 
 ## 🗨️ Invited Talks
 - International Symposium on Transportation Data Modelling. *A Unified Framework for End-to-End Transportation Network Equilibrium Modeling*. Ispra, Italy, *2023*
-- Institute of Transportation Engineers Great Lakes District Annual Meeting. *Safer Corktown Terminal of the Connected and Automated Vehicle Corridor*. Farmington Hills, MI， *2022*
-2022 & INFORMS Annual Meeting. \textit{End-to-end Learning of Transportation Network Equilibrium}. Indianapolis, IN. \\
-2022 & Transportation Research Board Annual Meeting. \textit{Regulatory Policies to Electrify Ridesourcing Systems}. Washington, D.C. \\
-2021 & INFORMS Annual Meeting. \textit{Reducing Carbon Emissions in Ridesourcing Systems}. Anaheim, CA. \\
-2019 & Conference on Neural Information Processing Systems. \textit{Building Effective Large-Scale Traffic State Prediction System: Traffic4cast Challenge Solution}. Vancouver, Canada.
+- Institute of Transportation Engineers Great Lakes District Annual Meeting. *Safer Corktown Terminal of the Connected and Automated Vehicle Corridor*. Farmington Hills, MI, *2022*
+- INFORMS Annual Meeting. *End-to-end Learning of Transportation Network Equilibrium*. Indianapolis, IN, *2022* 
+- Transportation Research Board Annual Meeting. *Regulatory Policies to Electrify Ridesourcing Systems*. Washington, D.C, *2022*
+- INFORMS Annual Meeting. *Reducing Carbon Emissions in Ridesourcing Systems*. Anaheim, CA, *2021*
+- Conference on Neural Information Processing Systems. *Building Effective Large-Scale Traffic State Prediction System: Traffic4cast Challenge Solution*. Vancouver, Canada, *2019*.
 
 
 ## 👩🏻‍🏫 Teaching
