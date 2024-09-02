@@ -79,7 +79,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
 
-# 🌞 Honors and Awards
+# 🏅 Honors and Awards
 - *Rackham Predoctoral Fellowship*, University of Michigan, *2024* 
 - *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*
 - *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023* 
