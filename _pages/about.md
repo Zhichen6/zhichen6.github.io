@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-# 📖 Educations
+# 🎓 Educations
 - Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*
 - M.S. in Industrial and Operations Engineering, University of Michigan, *2024*
 - B.Eng. in Transportation Engineering, Southeast University, China, *2020*
@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-# 📝 Publications 
+# 📖 Publications 
 ### Featured Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ts_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -79,7 +79,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
 
-# 🎖 Honors and Awards
+# 🌞 Honors and Awards
 - *Rackham Predoctoral Fellowship*, University of Michigan, *2024* 
 - *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*
 - *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023* 
@@ -105,6 +105,3 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
