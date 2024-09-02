@@ -75,13 +75,19 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 ### Other Papers
-- [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, **IEEE Intelligent Transportation Systems Magazine**, 2021.
-- [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu **Journal of Transportation Engineering, Part A: Systems**, 2020.
+- [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
+- [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* *Rackham Predoctoral Fellowship*, University of Michigan
+- *2023* *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo
+- *2023* *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia
+- *2022* *Civil and Environmental Engineering Graduate Fellowship*, University of Michigan
+- *2022* *Team Leader and First-Prize Winner*, National Transportation Technology Tournament
+- *2019* *Finalist*, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications
+- *2018* *Outstanding Student for Academic Achievement*, Southeast University
+- *2017* *China National Scholarship*, China Ministry of Education
 
 
 # 💬 Invited Talks
