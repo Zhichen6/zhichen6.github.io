@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Publications 
-### Featured Papers
+### 🌟 Featured Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ts_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
