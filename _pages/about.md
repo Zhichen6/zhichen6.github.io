@@ -52,12 +52,15 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C 2023</div><img src='images/trc_e2e_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[End-to-end learning of user equilibrium with implicit neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198835)
+[End-to-end learning of user equilibrium with implicit neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0968090X23000748)
 
 **Zhichen Liu**, Yafeng Yin, Fan Bai, Donald K Grimm, *Transportation Research Part C: Emerging Technologies*, 2023
 
-[**Poster**](images/e2e_part1_poster.pdf)
-- Give a very brief explanation for the paper 
+[**Poster**](images/e2e_part1_poster.pdf) [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198835)
+- End-to-end learning of route choice preferences and network equilibrium states from data.
+- Use deep neural networks to represent route choice preferences.
+- Embed a neural-network-based variational inequality as an implicit layer.
+- Explore algorithms to solve a batch of variational inequalities in forward propagation.
 </div>
 </div>
 
