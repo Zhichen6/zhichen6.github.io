@@ -54,7 +54,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Regulatory policies to electrify ridesourcing systems](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22001760)
 
-**Zhichen Liu**, Zhibin Chen, Yafeng Yin, Zhengtian Xu
+**Zhichen Liu**, Zhibin Chen, Yafeng Yin, Zhengtian Xu, *Transportation Research Part C: Emerging Technologies*, 2022
 
 [**Poster**](images/ride_sourcing_poster.pdf) [**Talks**](https://www.youtube.com/watch?v=peJASmV25yo&t=1s)
 - Give a very brief explanation for the paper 
