@@ -83,10 +83,12 @@ My research focuses on integrating game theory and machine learning to support s
 - *Outstanding Student for Academic Achievement*, Southeast University, *2018* 
 
 ## 🖥️ Professional Experience
-- #### New York University Shanghai, Shanghai, China
-*Research Assistant in Civil Engineering*  08/2020-05/2021
-- Built an equilibrium model for evaluating charging infrastructure effects on mixed vehicle ride-sourcing markets.
-- item Assessed the impact of three regulatory policies on market electrification.
+- **New York University Shanghai**, Shanghai, China
+*Research Assistant in Civil Engineering*, *08/2020-05/2021*
+- **China Design Group**, Nanjing, China
+*Transportation Engineer Intern in Intelligent Transportation Institute*, 07/2020-08/2020
+- **Zhitong Transportation Technology Company**, Nanjing, China
+*Traffic Algorithm Engineer Intern*, *05/2019-07/2019*
 
 ## 🌟 Leadership/Outreach
 - *Student Volunteer Coordinator*, 25th International Symposium on Transportation and Traffic Theory, *07/2024*
