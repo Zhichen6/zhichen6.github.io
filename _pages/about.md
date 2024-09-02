@@ -20,18 +20,9 @@ redirect_from:
 I'm Zhichen, a fourth-year PhD student from University of Michigan Ann Arbor. 
 My research focuses on integrating game theory and machine learning to support strategic decision-making in emerging mobility systems. These are [my works](https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en)
 
-
-
-
-# 🎓 Educations
-- Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*
-- M.S. in Industrial and Operations Engineering, University of Michigan, *2024*
-- B.Eng. in Transportation Engineering, Southeast University, China, *2020*
-
-
-
-
-
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Publications 
 ### 🌟 Featured Papers
@@ -76,8 +67,13 @@ My research focuses on integrating game theory and machine learning to support s
 - [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
+# CV 📋
+## 🎓 Educations
+- Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*
+- M.S. in Industrial and Operations Engineering, University of Michigan, *2024*
+- B.Eng. in Transportation Engineering, Southeast University, China, *2020*
 
-# 🏅 Honors and Awards
+## 🏅 Honors and Awards
 - *Rackham Predoctoral Fellowship*, University of Michigan, *2024* 
 - *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*
 - *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023* 
@@ -86,20 +82,7 @@ My research focuses on integrating game theory and machine learning to support s
 - *Finalist*, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications, *2019* 
 - *Outstanding Student for Academic Achievement*, Southeast University, *2018* 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 👩🏻‍🏫 Teaching
+## 👩🏻‍🏫 Teaching
 - *Teaching Assistant*, CEE 450: Introduction to Transportation Engineering
 
-
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
