@@ -58,9 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**Poster**](images/e2e_part1_poster.pdf) [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198835)
 - End-to-end learning of route choice preferences and network equilibrium states from data.
-- Use deep neural networks to represent route choice preferences.
-- Embed a neural-network-based variational inequality as an implicit layer.
-- Explore algorithms to solve a batch of variational inequalities in forward propagation.
+
 </div>
 </div>
 
@@ -77,10 +75,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
+- [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, **IEEE Intelligent Transportation Systems Magazine**, 2021.
+- [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu **Journal of Transportation Engineering, Part A: Systems**, 2020.
 
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
