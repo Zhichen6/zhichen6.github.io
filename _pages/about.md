@@ -37,12 +37,24 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ts_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029)
+
+**Zhichen Liu**, Yafeng Yin, *Preprint*, 2024
+
+[**Poster**](images/ts_e2e_2024_poster.pdf)
+- Give a very brief explanation for the paper 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Part C 2023</div><img src='images/trc_e2e_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [End-to-end learning of user equilibrium with implicit neural networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198835)
 
-**Zhichen Liu**, Yafeng Yin, Fan Bai, Donald K Grimm
+**Zhichen Liu**, Yafeng Yin, Fan Bai, Donald K Grimm, *Transportation Research Part C: Emerging Technologies*, 2023
 
 [**Poster**](images/e2e_part1_poster.pdf)
 - Give a very brief explanation for the paper 
