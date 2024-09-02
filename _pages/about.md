@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📝 Publications 
-
+## Featured Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ts_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,7 +74,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-
+## Other Papers
 - [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, **IEEE Intelligent Transportation Systems Magazine**, 2021.
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu **Journal of Transportation Engineering, Part A: Systems**, 2020.
 
