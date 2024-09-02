@@ -87,8 +87,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *Team Leader and First-Prize Winner*, National Transportation Technology Tournament, *2022* 
 - *Finalist*, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications, *2019* 
 - *Outstanding Student for Academic Achievement*, Southeast University, *2018* 
-- *2017* *China National Scholarship*, China Ministry of Education, *2017* 
-
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
