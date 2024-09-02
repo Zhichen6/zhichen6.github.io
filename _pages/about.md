@@ -82,6 +82,24 @@ My research focuses on integrating game theory and machine learning to support s
 - *Finalist*, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications, *2019* 
 - *Outstanding Student for Academic Achievement*, Southeast University, *2018* 
 
+## 🌟 Leadership/Outreach
+- *Student Volunteer Coordinator*, 25th International Symposium on Transportation and Traffic Theory, *07/2024*
+- *Session Chair*, Learning in Transportation Network Modeling. INFORMS Annual Meeting. *10/2023*
+
+## 🖋️ Journal/Conference Reviewer
+- Transportation Research Part B: Methodological
+- Transportation Research Part C: Emerging Technologies 
+- IEEE Transactions on Intelligent Transportation System
+
+## 🗨️ Invited Talks
+- International Symposium on Transportation Data Modelling. *A Unified Framework for End-to-End Transportation Network Equilibrium Modeling*. Ispra, Italy, *2023*
+- Institute of Transportation Engineers Great Lakes District Annual Meeting. *Safer Corktown Terminal of the Connected and Automated Vehicle Corridor*. Farmington Hills, MI， *2022*
+2022 & INFORMS Annual Meeting. \textit{End-to-end Learning of Transportation Network Equilibrium}. Indianapolis, IN. \\
+2022 & Transportation Research Board Annual Meeting. \textit{Regulatory Policies to Electrify Ridesourcing Systems}. Washington, D.C. \\
+2021 & INFORMS Annual Meeting. \textit{Reducing Carbon Emissions in Ridesourcing Systems}. Anaheim, CA. \\
+2019 & Conference on Neural Information Processing Systems. \textit{Building Effective Large-Scale Traffic State Prediction System: Traffic4cast Challenge Solution}. Vancouver, Canada.
+
+
 ## 👩🏻‍🏫 Teaching
 - *Teaching Assistant*, CEE 450: Introduction to Transportation Engineering
 
