@@ -67,7 +67,7 @@ My research focuses on integrating game theory and machine learning to support s
 - [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
-# CV 📋
+# 📋 CV 
 ## 🎓 Educations
 - Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*
 - M.S. in Industrial and Operations Engineering, University of Michigan, *2024*
