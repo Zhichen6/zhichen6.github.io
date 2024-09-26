@@ -79,13 +79,13 @@ My research focuses on integrating game theory and machine learning to support s
 - B.Eng. in Transportation Engineering, Southeast University, China, *2020*.
 
 ## 🏅 Honors and Awards
-- *Rackham Predoctoral Fellowship*, University of Michigan, *2024* 
-- *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*
-- *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023* 
-- *Civil and Environmental Engineering Graduate Fellowship*, University of Michigan, *2022* 
-- *Team Leader and First-Prize Winner*, National Transportation Technology Tournament, *2022* 
-- *Finalist*, Interdisciplinary Contest in Modeling, Consortium for Mathematics and its Applications, *2019* 
-- *Outstanding Student for Academic Achievement*, Southeast University, *2018* 
+- *Rackham Predoctoral Fellowship*, University of Michigan, *2024*.
+- *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*.
+- *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023*.
+- *Civil and Environmental Engineering Graduate Fellowship*, University of Michigan, *2022*.
+- *First-Prize Winner and Team Leader*, National Transportation Technology Tournament, *2022*.
+- *Finalist (top 0.3%)*, COMAP Interdisciplinary Contest in Modeling (ICM), *2019*.
+- *Outstanding Student for Academic Achievement*, Southeast University, *2018*. 
 
 ## 🖥️ Professional Experience
 - **New York University Shanghai**, Shanghai, China
