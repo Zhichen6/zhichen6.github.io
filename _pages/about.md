@@ -63,13 +63,14 @@ My research focuses on integrating game theory and machine learning to support s
 </div>
 </div>
 
+### Research in Progress
+- [Distributionally Robust Transportation Networks Design with Contextual Uncertainty].
+- [Electrify Ridesourcing System with Differential Matching].
+
 ### Other Papers
 - [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
-### Research in Progress
-- [Distributionally Robust Transportation Networks Design with Contextual Uncertainty].
-- [Electrify Ridesourcing System with Differential Matching].
 
 # 📋 CV 
 ## 🎓 Education
