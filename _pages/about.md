@@ -64,8 +64,8 @@ My research focuses on integrating game theory and machine learning to support s
 </div>
 
 ### Research in Progress
-- [Distributionally Robust Transportation Networks Design with Contextual Uncertainty].
-- [Electrify Ridesourcing System with Differential Matching].
+- Distributionally Robust Transportation Networks Design with Contextual Uncertainty.
+- Electrify Ridesourcing System with Differential Matching.
 
 ### Other Papers
 - [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
@@ -74,9 +74,9 @@ My research focuses on integrating game theory and machine learning to support s
 
 # 📋 CV 
 ## 🎓 Education
-- Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*
-- M.S. in Industrial and Operations Engineering, University of Michigan, *2024*
-- B.Eng. in Transportation Engineering, Southeast University, China, *2020*
+- Ph.D. in Civil Engineering (Next Generation Transportation Systems Track), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*.
+- M.S.E in Industrial & Operations Engineering, University of Michigan, *2024*.
+- B.Eng. in Transportation Engineering, Southeast University, China, *2020*.
 
 ## 🏅 Honors and Awards
 - *Rackham Predoctoral Fellowship*, University of Michigan, *2024* 
