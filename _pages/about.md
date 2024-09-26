@@ -88,12 +88,14 @@ My research focuses on integrating game theory and machine learning to support s
 - *Outstanding Student for Academic Achievement*, Southeast University, *2018*. 
 
 ## 🖥️ Professional Experience
+- **General Motors**, Warren, MI
+*Visiting Scientist*, *07/2023-11/2023*.
 - **New York University Shanghai**, Shanghai, China
-*Research Assistant in Civil Engineering*, *08/2020-05/2021*
+*Research Assistant in Civil Engineering*, *08/2020-05/2021*.
 - **China Design Group**, Nanjing, China
-*Transportation Engineer Intern in Intelligent Transportation Institute*, 07/2020-08/2020
+*Transportation Engineer Intern in Intelligent Transportation Institute*, 07/2020-08/2020.
 - **Zhitong Transportation Technology Company**, Nanjing, China
-*Traffic Algorithm Engineer Intern*, *05/2019-07/2019*
+*Traffic Algorithm Engineer Intern*, *05/2019-07/2019*.
 
 ## 🌟 Leadership/Outreach
 - *Student Volunteer Coordinator*, 25th International Symposium on Transportation and Traffic Theory, *07/2024*
