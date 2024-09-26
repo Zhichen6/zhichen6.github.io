@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm Zhichen, a fifth-year PhD student from University of Michigan. 
-My research focuses on integrating game theory and machine learning to support strategic decision-making in emerging mobility systems. These are [my works](https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en)
+My research focuses on integrating game theory and machine learning to support strategic decision-making in emerging mobility systems. These are [my works](https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en).
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -97,11 +97,14 @@ My research focuses on integrating game theory and machine learning to support s
 - **Zhitong Transportation Technology Company**, Nanjing, China
 *Traffic Algorithm Engineer Intern*, *05/2019-07/2019*.
 
-## 🌟 Leadership/Outreach
-- *Student Volunteer Coordinator*, 25th International Symposium on Transportation and Traffic Theory, *07/2024*
-- *Session Chair*, Learning in Transportation Network Modeling. INFORMS Annual Meeting. *10/2023*
+##  Selected Leadership/Outreach
+- *Student Volunteer Coordinator*, 25th International Symposium on Transportation and Traffic Theory, *07/2024*.
+- *Web Coordinator*, TRB Standing Committee on Network Modeling, *01/2023-Present*.
+- *Peer Mentor*, University of Michigan CEE Graduate Peer Mentorship Program, *10/2022-04/2023*.
+- *Board Member*, Michigan Transportation Student Organization, *02/2022-08/2022*.
 
 ## 🖋️ Journal/Conference Reviewer
+- Transportation Science
 - Transportation Research Part B: Methodological
 - Transportation Research Part C: Emerging Technologies 
 - IEEE Transactions on Intelligent Transportation System
