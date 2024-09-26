@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zhichen, a fourth-year PhD student from University of Michigan Ann Arbor. 
+I'm Zhichen, a fifth-year PhD student from University of Michigan. 
 My research focuses on integrating game theory and machine learning to support strategic decision-making in emerging mobility systems. These are [my works](https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en)
 
 # 🔥 News
@@ -67,8 +67,12 @@ My research focuses on integrating game theory and machine learning to support s
 - [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
+### Research in Progress
+- [Distributionally Robust Transportation Networks Design with Contextual Uncertainty].
+- [Electrify Ridesourcing System with Differential Matching].
+
 # 📋 CV 
-## 🎓 Educations
+## 🎓 Education
 - Ph.D. in Civil Engineering (Next Generation Transportation Systems), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*
 - M.S. in Industrial and Operations Engineering, University of Michigan, *2024*
 - B.Eng. in Transportation Engineering, Southeast University, China, *2020*
