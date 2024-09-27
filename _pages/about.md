@@ -104,12 +104,20 @@ My research focuses on integrating game theory and machine learning to support s
 - *Board Member*, Michigan Transportation Student Organization, *02/2022-08/2022*.
 
 ## 🖋️ Journal/Conference Reviewer
-- Transportation Science
-- Transportation Research Part B: Methodological
-- Transportation Research Part C: Emerging Technologies 
-- IEEE Transactions on Intelligent Transportation System
+- *Transportation Science*
+- *Transportation Research Part B: Methodological*
+- *Transportation Research Part C: Emerging Technologies* 
+- *IEEE Transactions on Intelligent Transportation Systems*
+- *Transportation Research Record*
+- International Symposium on Transportation and Traffic Theory
+- TRB Standing Committee on Network Modeling
+- TRB Standing Committee on Freight Transportation Planning and Logistics
+- TRB Standing Committee on Artificial Intelligence and Advanced Computing Applications
+- TRB Standing Committee on Vehicle-Highway Automation
+- World Conference on Trasport Research Society
 
-## 🗨️ Invited Talks
+
+## 🗨️ Selected Invited Talks
 - International Symposium on Transportation Data Modelling. *A Unified Framework for End-to-End Transportation Network Equilibrium Modeling*. Ispra, Italy, *2023*
 - Institute of Transportation Engineers Great Lakes District Annual Meeting. *Safer Corktown Terminal of the Connected and Automated Vehicle Corridor*. Farmington Hills, MI, *2022*
 - INFORMS Annual Meeting. *End-to-end Learning of Transportation Network Equilibrium*. Indianapolis, IN, *2022* 
