@@ -120,41 +120,18 @@ My research focuses on integrating game theory and machine learning to support s
 ## 🗨️ Selected Invited Talks
 - INFORMS Annual Meeting. *Designing Robust Transportation Networks with Imperfect User Equilibrium Predictions*. Seattle, Washington, *2024*.
 - Transportation Research Board Annual Meeting. *End-to-end Learning of User Equilibrium: Expressivity, Generalization, and Optimization*. Washington, D.C., *2024*.
-- International Symposium on Transportation Data Modelling. *A Unified Framework for End-to-End Transportation Network Equilibrium Modeling*. Ispra, Italy, *2023*。
+- International Symposium on Transportation Data Modelling. *A Unified Framework for End-to-End Transportation Network Equilibrium Modeling*. Ispra, Italy, *2023*.
 - Transportation Research Board Annual Meeting. *End-to-end Learning of User Equilibrium with Implicit Layer*. Washington, D.C., *2023*.
-- Institute of Transportation Engineers Great Lakes District Annual Meeting. *Safer Corktown Terminal of the Connected and Automated Vehicle Corridor*. Farmington Hills, MI, *2022*
-- INFORMS Annual Meeting. *End-to-end Learning of Transportation Network Equilibrium*. Indianapolis, IN, *2022* 
-- Transportation Research Board Annual Meeting. *Regulatory Policies to Electrify Ridesourcing Systems*. Washington, D.C, *2022*
-- INFORMS Annual Meeting. *Reducing Carbon Emissions in Ridesourcing Systems*. Anaheim, CA, *2021*
+- Institute of Transportation Engineers Great Lakes District Annual Meeting. *Safer Corktown Terminal of the Connected and Automated Vehicle Corridor*. Farmington Hills, MI, *2022*.
+- INFORMS Annual Meeting. *End-to-end Learning of Transportation Network Equilibrium*. Indianapolis, IN, *2022*.
+- Transportation Research Board Annual Meeting. *Regulatory Policies to Electrify Ridesourcing Systems*. Washington, D.C, *2022*.
+- INFORMS Annual Meeting. *Reducing Carbon Emissions in Ridesourcing Systems*. Anaheim, CA, *2021*.
 - Conference on Neural Information Processing Systems. *Building Effective Large-Scale Traffic State Prediction System: Traffic4cast Challenge Solution*. Vancouver, Canada, *2019*.
 
-
-
-
-
-
-
-
-
-
-2024 & INFORMS Annual Meeting. Designing Robust Transportation Networks with Imperfect User Equilibrium Predictions. Seattle, Washington.\\
-2024 & Transportation Research Board Annual Meeting. \textit{End-to-end Learning of User Equilibrium: Expressivity, Generalization, and Optimization}. Washington, D.C. \\
-2023 & International Symposium on Transportation Data \& Modelling. \textit{A Unified Framework for End-to-End Transportation Network Equilibrium Modeling}. Ispra, Italy. \\
-2023 & Transportation Research Board Annual Meeting. \textit{End-to-end Learning of User Equilibrium with Implicit Layer}. Washington, D.C. \\
-2022 & Institute of Transportation Engineers Great Lakes District Annual Meeting. \textit{Safer Corktown Terminal of the Connected and Automated Vehicle Corridor}. Farmington Hills, MI. \\
-2022 & INFORMS Annual Meeting. \textit{End-to-end Learning of Transportation Network Equilibrium}. Indianapolis, IN. \\
-2022 & Transportation Research Board Annual Meeting. \textit{Regulatory Policies to Electrify Ridesourcing Systems}. Washington, D.C. \\
-2021 & INFORMS Annual Meeting. \textit{Reducing Carbon Emissions in Ridesourcing Systems}. Anaheim, CA. \\
-2019 & Conference on Neural Information Processing Systems. \textit{Building Effective Large-Scale Traffic State Prediction System: Traffic4cast Challenge Solution}. Vancouver, Canada. 
-
-
-
-
-
-
-
-
 ## 👩🏻‍🏫 Teaching
-- *Teaching Assistant*, CEE 450: Introduction to Transportation Engineering
-
-
+- *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Fall 2024*.
+- *Teaching Assistant*, University of Michigan Women in Science and Engineering Python Bootcamp, *Summer 2024*.
+- *Teaching Assistant*,CEE 450: Introduction to Transportation Engineering. (Rating 4.9/5.0), *Winter 2024*.
+- *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Winter 2022*.
+- *Team Leader*, Michigan Transportation Students Organization's Team for Transportation Technology Tournament, *Summer 2022*.
+- *Volunteer Instructor*,  Qiaoping Primary School in Duma County, Qiandongnan Autonomous Region, Guizhou, China, *Summer 2018*.
