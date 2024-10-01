@@ -23,8 +23,8 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 - **Adaptation and regulation of human-autonomous vehicle interactions**.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10.20*:  I will go to Informs Annual Meeting and hold session **SB35: Learning in Transportation Network Modeling** from 10:45 AM to 12:00 PM with Minghui Wu. 
+- *2024.08*: &nbsp;🎉🎉 The preprint of my latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is avilable online.
 
 # 📖 Publications 
 ### 🌟 Featured Papers
@@ -36,7 +36,6 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 **Zhichen Liu**, Yafeng Yin, *Preprint*, 2024
 
 [**Poster**](images/ts_e2e_2024_poster.pdf)
-- Give a very brief explanation for the paper 
 </div>
 </div>
 
@@ -48,7 +47,6 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 **Zhichen Liu**, Yafeng Yin, Fan Bai, Donald K Grimm, *Transportation Research Part C: Emerging Technologies*, 2023
 
 [**Poster**](images/e2e_part1_poster.pdf) [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198835)
-- End-to-end learning of route choice preferences and network equilibrium states from data.
 
 </div>
 </div>
@@ -61,7 +59,6 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 **Zhichen Liu**, Zhibin Chen, Yafeng Yin, Zhengtian Xu, *Transportation Research Part C: Emerging Technologies*, 2022
 
 [**Poster**](images/ride_sourcing_poster.pdf) [**Talks**](https://www.youtube.com/watch?v=peJASmV25yo&t=1s)
-- Give a very brief explanation for the paper 
 </div>
 </div>
 
