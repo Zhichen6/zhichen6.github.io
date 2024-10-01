@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Zhichen, a fifth-year PhD student from University of Michigan. 
-My research focuses on integrating game theory and machine learning to support strategic decision-making in emerging mobility systems. These are [my works](https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en).
+I am a PhD candidate at the University of Michigan. My research interest focuses on **(i) AI-enabled analysis and management of urban transportation networks**, **(ii) modeling and policy for sustainable shared mobility**, and **(iii) adaptation and regulation of human-autonomous vehicle interactions**.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
