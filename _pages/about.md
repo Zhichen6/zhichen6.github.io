@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD candidate in Civil Engineering (Next Generation Transportation Track) at the University of Michigan. My research interest focuses on: 
 - **AI-enabled analysis and management of urban transportation networks**
 - **Modeling and policy for sustainable shared mobility**
-- **Adaptation and regulation of human-autonomous vehicle interactions**.
+- **Adaptation and regulation of human-autonomous vehicle interactions**
 
 # 🔥 News
 - *2024.10/20*:  I will go to Informs Annual Meeting and hold session **SB35: Learning in Transportation Network Modeling** from 10:45 AM to 12:00 PM with Minghui Wu. 
