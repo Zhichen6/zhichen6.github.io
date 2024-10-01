@@ -19,8 +19,8 @@ redirect_from:
 
 I am a PhD candidate in Civil Engineering (Next Generation Transportation Track) at the University of Michigan. My research interest focuses on: 
 - **AI-enabled analysis and management of urban transportation networks**
-- **modeling and policy for sustainable shared mobility**
-- **adaptation and regulation of human-autonomous vehicle interactions**.
+- **Modeling and policy for sustainable shared mobility**
+- **Adaptation and regulation of human-autonomous vehicle interactions**.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
