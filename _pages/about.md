@@ -24,7 +24,7 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 
 # 🔥 News
 - *2024.10/20*:  I will go to Informs Annual Meeting and hold session **SB35: Learning in Transportation Network Modeling** from 10:45 AM to 12:00 PM with Minghui Wu. 
-- *2024.08*: &nbsp;🎉🎉 The preprint of my latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is avilable online.
+- *2024.08*: &nbsp;🎉 The preprint of my latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is available online.
 
 # 📖 Publications 
 ### 🌟 Featured Papers
