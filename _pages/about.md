@@ -78,12 +78,12 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 
 
 # 📋 CV 
-## 🎓 Education
+## 🎓 EDUCATION
 - Ph.D. in Civil Engineering (Next Generation Transportation Systems Track), University of Michigan, Advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), *2025*.
 - M.S.E in Industrial & Operations Engineering, University of Michigan, *2024*.
 - B.Eng. in Transportation Engineering, Southeast University, China, *2020*.
 
-## 🏅 Honors and Awards
+## 🏅 HONORS AND AWARDS
 - *Rackham Predoctoral Fellowship*, University of Michigan, *2024*.
 - *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*.
 - *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023*.
@@ -92,7 +92,7 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 - *Finalist (top 0.3%)*, COMAP Interdisciplinary Contest in Modeling (ICM), *2019*.
 - *Outstanding Student for Academic Achievement*, Southeast University, *2018*. 
 
-## 🖥️ Professional Experience
+## 🖥️ PROFESSIONAL EXPERIENCE
 - **General Motors**, Warren, MI
 *Visiting Scientist*, *07/2023-11/2023*.
 - **New York University Shanghai**, Shanghai, China
@@ -102,7 +102,7 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 - **Zhitong Transportation Technology Company**, Nanjing, China
 *Traffic Algorithm Engineer Intern*, *05/2019-07/2019*.
 
-## 👩🏻‍🏫 Teaching
+## 👩🏻‍🏫 TEACHING EXPERIENCE
 - *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Fall 2024*.
 - *Teaching Assistant*, University of Michigan Women in Science and Engineering Python Bootcamp, *Summer 2024*.
 - *Teaching Assistant*,CEE 450: Introduction to Transportation Engineering. (**Nominated for the 2025 College of Engineering's Towner Prize for Outstanding GSIs**, Rating 4.84/5.0), *Winter 2024*.
@@ -111,13 +111,13 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 - *Volunteer Instructor*,  Qiaoping Primary School in Duma County, Qiandongnan Autonomous Region, Guizhou, China, *Summer 2018*.
 
 
-## 😃 Selected Leadership/Outreach
+## 😃 SELECTED LEADERSHIP/OUTREACH
 - *Student Volunteer Coordinator*, 25th International Symposium on Transportation and Traffic Theory, *07/2024*.
 - *Web Coordinator*, TRB Standing Committee on Network Modeling, *01/2023-Present*.
 - *Peer Mentor*, University of Michigan CEE Graduate Peer Mentorship Program, *10/2022-04/2023*.
 - *Board Member*, Michigan Transportation Student Organization, *02/2022-08/2022*.
 
-## 🖋️ Journal/Conference Reviewer
+## 🖋️ JOURNAL/CONFERENCE REVIEWER
 - *Transportation Science*
 - *Transportation Research Part B: Methodological*
 - *Transportation Research Part C: Emerging Technologies* 
@@ -131,7 +131,7 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 - World Conference on Trasport Research Society
 
 
-## 🗨️ Selected Invited Talks
+## 🗨️ SELECTED TALKS
 - INFORMS Annual Meeting. *Designing Robust Transportation Networks with Imperfect User Equilibrium Predictions*. Seattle, Washington, *2024*.
 - Transportation Research Board Annual Meeting. *End-to-end Learning of User Equilibrium: Expressivity, Generalization, and Optimization*. Washington, D.C., *2024*.
 - International Symposium on Transportation Data Modelling. *A Unified Framework for End-to-End Transportation Network Equilibrium Modeling*. Ispra, Italy, *2023*.
