@@ -23,7 +23,7 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 - **Adaptation and regulation of human-autonomous vehicle interactions**
 
 # 🔥 News
-- *2024.10.20*:  I will hold session **SB35: Learning in Transportation Network Modeling** at INFORMS Annual Meeting with my labmate Minghui Wu. Please attend my session if you are interested. 
+- *2024.10.20*:  I will hold session **SB35: Learning in Transportation Network Modeling** at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! draw on my expertise in machine learning theory, game theory, and optimization. [Poster](images/SB35_LearningInTransportationNetwork.pdf)
 - *2024.08*: &nbsp;🎉 The preprint of my latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is available online.
 
 # 📖 Publications 
