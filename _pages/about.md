@@ -24,7 +24,7 @@ My research focuses on bring together machine learning theory, game theory, and 
 - **Sustainable shared mobility modeling and policy**
 - **Human-autonomous vehicle interaction and regulation**
 
-I am honored to have received the Rackham Predoctoral Fellowship and a nomination for the College of Engineering's Towner Prize for Outstanding GSIs. **I am currently seeking an assistant professor position in transportation engineering and industrial engineering**.
+I am honored to have received the Rackham Predoctoral Fellowship and a nomination for the College of Engineering's Towner Prize for Outstanding GSIs. **I am currently looking for an assistant professor position in transportation engineering and industrial engineering**.
 
 
 
@@ -102,7 +102,16 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 - **Zhitong Transportation Technology Company**, Nanjing, China
 *Traffic Algorithm Engineer Intern*, *05/2019-07/2019*.
 
-##  Selected Leadership/Outreach
+## 👩🏻‍🏫 Teaching
+- *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Fall 2024*.
+- *Teaching Assistant*, University of Michigan Women in Science and Engineering Python Bootcamp, *Summer 2024*.
+- *Teaching Assistant*,CEE 450: Introduction to Transportation Engineering. (**Nominated for the 2025 College of Engineering's Towner Prize for Outstanding GSIs**, Rating 4.84/5.0), *Winter 2024*.
+- *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Winter 2022*.
+- *Team Leader*, Michigan Transportation Students Organization's Team for Transportation Technology Tournament, *Summer 2022*.
+- *Volunteer Instructor*,  Qiaoping Primary School in Duma County, Qiandongnan Autonomous Region, Guizhou, China, *Summer 2018*.
+
+
+## 😃 Selected Leadership/Outreach
 - *Student Volunteer Coordinator*, 25th International Symposium on Transportation and Traffic Theory, *07/2024*.
 - *Web Coordinator*, TRB Standing Committee on Network Modeling, *01/2023-Present*.
 - *Peer Mentor*, University of Michigan CEE Graduate Peer Mentorship Program, *10/2022-04/2023*.
@@ -133,10 +142,3 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 - INFORMS Annual Meeting. *Reducing Carbon Emissions in Ridesourcing Systems*. Anaheim, CA, *2021*.
 - Conference on Neural Information Processing Systems. *Building Effective Large-Scale Traffic State Prediction System: Traffic4cast Challenge Solution*. Vancouver, Canada, *2019*.
 
-## 👩🏻‍🏫 Teaching
-- *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Fall 2024*.
-- *Teaching Assistant*, University of Michigan Women in Science and Engineering Python Bootcamp, *Summer 2024*.
-- *Teaching Assistant*,CEE 450: Introduction to Transportation Engineering. (Nominated for the 2025 College of Engineering's Towner Prize for Outstanding GSIs, Rating 4.84/5.0), *Winter 2024*.
-- *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Winter 2022*.
-- *Team Leader*, Michigan Transportation Students Organization's Team for Transportation Technology Tournament, *Summer 2022*.
-- *Volunteer Instructor*,  Qiaoping Primary School in Duma County, Qiandongnan Autonomous Region, Guizhou, China, *Summer 2018*.
