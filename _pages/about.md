@@ -22,6 +22,17 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 - **Modeling and policy for sustainable shared mobility**
 - **Adaptation and regulation of human-autonomous vehicle interactions**
 
+I am a PhD candidate in Civil Engineering (Next Generation Transportation) at the University of Michigan, advised by Prof. [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering. I graduated with a bachelor's degree in Transportation Engineering from Southeast University, China, in 2020.
+
+My research focuses on bring together machine learning theory, game theory, and optimization to transforming game-theoretical modeling and decision-making in transportation systems. My research interest focus on:
+- **AI-enabled analysis and management of urban transportation networks**
+- **Sustainable shared mobility modeling and policy**
+- **Human-autonomous vehicle interaction and regulation**
+
+I am honored to have received the Rackham Predoctoral Fellowship and a nomination for the College of Engineering's Towner Prize for Outstanding GSIs. **I am currently seeking an assistant professor position in transportation engineering and industrial engineering**.
+
+
+
 # 🔥 News
 - *2024.10.20*:  I will hold session **SB35: Learning in Transportation Network Modeling** at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! draw on my expertise in machine learning theory, game theory, and optimization. [Poster](images/SB35_LearningInTransportationNetwork.pdf)
 - *2024.08*: &nbsp;🎉 The preprint of my latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is available online.
