@@ -33,7 +33,7 @@ I am a PhD candidate in Civil Engineering (Next Generation Transportation Track)
 
 [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029)
 
-**Zhichen Liu**, Yafeng Yin, *Preprint*, 2024
+**Zhichen Liu**, Yafeng Yin, Under second round review of *Transportation science*, 2024
 
 [**Poster**](images/ts_e2e_2024_poster.pdf)
 </div>
