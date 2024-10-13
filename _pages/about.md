@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a PhD candidate in Civil Engineering (Next Generation Transportation) at the University of Michigan, advised by Prof. [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering. I graduated with a bachelor's degree in Transportation Engineering from Southeast University, China, in 2020.
-
+I am a PhD candidate in Civil Engineering (Next Generation Transportation) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
 My research focuses on bring together machine learning theory, game theory, and optimization to transforming game-theoretical modeling and decision-making in transportation systems. My research interest focus on:
 - **AI-enabled analysis and management of urban transportation networks**
 - **Sustainable shared mobility modeling and policy**
