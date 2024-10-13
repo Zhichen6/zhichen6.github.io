@@ -137,7 +137,7 @@ I am honored to have received the Rackham Predoctoral Fellowship and a nominatio
 ## 👩🏻‍🏫 Teaching
 - *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Fall 2024*.
 - *Teaching Assistant*, University of Michigan Women in Science and Engineering Python Bootcamp, *Summer 2024*.
-- *Teaching Assistant*,CEE 450: Introduction to Transportation Engineering. (Rating 4.9/5.0), *Winter 2024*.
+- *Teaching Assistant*,CEE 450: Introduction to Transportation Engineering. (Nominated for the 2025 College of Engineering's Towner Prize for Outstanding GSIs, Rating 4.84/5.0), *Winter 2024*.
 - *Guest Lecturer*, CEE 590 Next Generation Transportation Systems Seminars, *Winter 2022*.
 - *Team Leader*, Michigan Transportation Students Organization's Team for Transportation Technology Tournament, *Summer 2022*.
 - *Volunteer Instructor*,  Qiaoping Primary School in Duma County, Qiandongnan Autonomous Region, Guizhou, China, *Summer 2018*.
