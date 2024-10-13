@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate in Civil Engineering (Next Generation Transportation Track) at the University of Michigan advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/). My research interest focuses on: 
+I am a PhD candidate in Civil Engineering (Next Generation Transportation Track) at the University of Michigan advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/). I am actively seeking a tenure-track assistant professor position related to transportation engineering and industrial engineering. My research interest focuses on: 
 - **AI-enabled analysis and management of urban transportation networks**
 - **Modeling and policy for sustainable shared mobility**
 - **Adaptation and regulation of human-autonomous vehicle interactions**
