@@ -29,6 +29,7 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 
 
 # 🔥 News
+- *2024.10.22 9:20-9:40*: Please join my INFORMS job talk **End-to-End Learning and Optimization of User Equilibrium: Expressivity, Generalization and Optimization**, Summit-Flex B, Classroom A! 
 - *2024.10.20*:  I will hold session **SB35: Learning in Transportation Network Modeling** at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! [Click here for session details](images/SB35_LearningInTransportationNetwork.pdf)
 - *2024.08*: &nbsp;🎉 The preprint of my latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is available online.
 
