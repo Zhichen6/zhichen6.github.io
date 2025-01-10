@@ -29,18 +29,19 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 
 
 # 🔥 News
+- *2025.01.09*: &nbsp;🎉 My latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is accepted by **Transportation Science**.
 - *2024.10.22 9:20-9:40*: Please join my INFORMS job talk **End-to-End Learning and Optimization of User Equilibrium: Expressivity, Generalization and Optimization**, Summit-Flex B, Classroom A! 
 - *2024.10.20*:  I will hold session **SB35: Learning in Transportation Network Modeling** at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! [Click here for session details](images/SB35_LearningInTransportationNetwork.pdf)
-- *2024.08*: &nbsp;🎉 The preprint of my latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is available online.
+
 
 # 📖 Publications 
 ### 🌟 Featured Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ts_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Science 2025</div><img src='images/ts_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029)
 
-**Zhichen Liu**, Yafeng Yin, Under Second Round Review of *Transportation science*, 2024
+**Zhichen Liu**, Yafeng Yin, Accepted by *Transportation science*, 2025
 
 [**Poster**](images/ts_e2e_2024_poster.pdf)
 </div>
@@ -70,6 +71,7 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 </div>
 
 ### Research in Progress
+- Inverse Learning of Congestion Game via Multiconvex Optimization. **Zhichen Liu**, Xi Lin and Yafeng Yin. *Submitted to the 26th International Symposium on Transportation and Traffic Theory*. 
 - Distributionally Robust Transportation Networks Design with Contextual Uncertainty.
 - Electrify Ridesourcing System with Differential Matching.
 
