@@ -29,8 +29,8 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 
 
 # 🔥 News
+- *2025*: &nbsp;🎉 I am honored to receive the prestigous WTS Michigan Helene M. Overly Memorial Scholarship!
 - *2025.01.09*: &nbsp;🎉 My latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is accepted by **Transportation Science**.
-- *2024.10.22 9:20-9:40*: Please join my INFORMS job talk **End-to-End Learning and Optimization of User Equilibrium: Expressivity, Generalization and Optimization**, Summit-Flex B, Classroom A! 
 - *2024.10.20*:  I will hold session **SB35: Learning in Transportation Network Modeling** at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! [Click here for session details](images/SB35_LearningInTransportationNetwork.pdf)
 
 
@@ -72,7 +72,7 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 
 ### Research in Progress
 - Inverse Learning of Congestion Game via Multiconvex Optimization. **Zhichen Liu**, Xi Lin and Yafeng Yin. *Submitted to the 26th International Symposium on Transportation and Traffic Theory*. 
-- Distributionally Robust Transportation Networks Design with Contextual Uncertainty.
+- Distributionally Robust Transportation Networks Design with Contextual Uncertainty. **Zhichen Liu**, Yafeng Yin, and Xi Lin. *Preprint accepted at the 2025 TRB Annual Meeting*.
 - Electrify Ridesourcing System with Differential Matching.
 
 ### Other Papers
@@ -87,6 +87,7 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 - B.Eng. in Transportation Engineering, Southeast University, China, *2020*.
 
 ## 🏅 HONORS AND AWARDS
+- *Helene M. Overly Memorial Scholarship*, Women’s Transportation Seminar, Michigan Chapter, *2025*.
 - *Rackham Predoctoral Fellowship*, University of Michigan, *2024*.
 - *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*.
 - *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023*.
