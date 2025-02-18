@@ -18,20 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a PhD candidate in Civil Engineering (Next Generation Transportation) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
-My research focuses on bringing together machine learning theory, game theory, and optimization to transform game-theoretical modeling and decision-making in transportation systems. My research interest focus on:
+I am a PhD candidate in Civil Engineering (Next Generation Transportation Track) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
+My research brings together human-centered AI, game theory, and data-driven optimization to transform modeling and decision-making in smart transportation systems. Specifically, I focus on:
 - **AI-enabled analysis and management of urban transportation networks**
-- **Sustainable shared mobility modeling and policy**
-- **Human-autonomous vehicle interaction and regulation**
+- **AI-enabled learning, adaptation and regulation in human-autonomous-vehicle interaction**
+- **Sustainable shared mobility modeling and policy design**
+
 
 I am honored to receive the Rackham Predoctoral Fellowship and a nomination for the College of Engineering's Towner Prize for Outstanding GSIs. **I am currently looking for an assistant professor position in transportation engineering and industrial engineering**.
 
 
 
 # 🔥 News
-- *2025*: &nbsp;🎉 I am honored to receive the prestigous WTS Michigan Helene M. Overly Memorial Scholarship!
+- *2025*: &nbsp;🎉 I am honored to receive the prestigous **WTS Michigan Helene M. Overly Memorial Scholarship**!
 - *2025.01.09*: &nbsp;🎉 My latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is accepted by **Transportation Science**.
-- *2024.10.20*:  I will hold session **SB35: Learning in Transportation Network Modeling** at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! [Click here for session details](images/SB35_LearningInTransportationNetwork.pdf)
+- *2024.10.20*:  I will hold session SB35: Learning in Transportation Network Modeling at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! [Click here for session details](images/SB35_LearningInTransportationNetwork.pdf)
 
 
 # 📖 Publications 
@@ -71,7 +72,7 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 </div>
 
 ### Research in Progress
-- Inverse Learning of Congestion Game via Multiconvex Optimization. **Zhichen Liu**, Xi Lin and Yafeng Yin. *Submitted to the 26th International Symposium on Transportation and Traffic Theory*. 
+- Inverse Learning of Congestion Game via Multiconvex Optimization. **Zhichen Liu**, Xi Lin and Yafeng Yin. *Under review with the 26th International Symposium on Transportation and Traffic Theory*. 
 - Distributionally Robust Transportation Networks Design with Contextual Uncertainty. **Zhichen Liu**, Yafeng Yin, and Xi Lin. *Preprint accepted at the 2025 TRB Annual Meeting*.
 - Electrify Ridesourcing System with Differential Matching.
 
@@ -89,6 +90,7 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 ## 🏅 HONORS AND AWARDS
 - *Helene M. Overly Memorial Scholarship*, Women’s Transportation Seminar, Michigan Chapter, *2025*.
 - *Rackham Predoctoral Fellowship*, University of Michigan, *2024*.
+- *Nomination for Towner Prize for Outstanding GSIs*, University of Michigan, College of Engineering, *2024*.
 - *Shortlisted Rising Star*, Rising Stars Women in Engineering Workshop, University of Tokyo, *2023*.
 - *Selected Rising Star*, Cyber-Physical Systems Rising Stars Workshop, University of Virginia, *2023*.
 - *Civil and Environmental Engineering Graduate Fellowship*, University of Michigan, *2022*.
@@ -125,7 +127,9 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 - *Transportation Science*
 - *Transportation Research Part B: Methodological*
 - *Transportation Research Part C: Emerging Technologies* 
+- *Transportation Research Part E: Logistics and Transportation Review*
 - *IEEE Transactions on Intelligent Transportation Systems*
+- *IEEE Transactions on Control Systems Technology*
 - *Transportation Research Record*
 - International Symposium on Transportation and Traffic Theory
 - TRB Standing Committee on Network Modeling
