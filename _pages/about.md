@@ -33,7 +33,7 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 - *2025.03.17*: &nbsp;🎉 Excited to share that my latest paper, [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489), co-authored with Dr. Yafeng Yin, is now published in **Transportation Science**!
 - *2025.03.11*: Honored to be selected as the sole global recipient of the prestigo 2025 **Helene M. Overly Memorial Scholarship** ($10,000) by the WTS International Foundation.
 - *2025.03.10*: Our extended abstract, Differentiated Order Allocation to Electrify Ride-Sourcing Systems, has been accepted for presentation at CASPT & TransitData 2025 in Kyoto!
-- *2025.01.13*: &nbsp;🎉 I am honored to receive the prestigous **Helene M. Overly Memorial Scholarship** from the WTS Michigan Chapter!
+- *2025.01.13*: &nbsp;🎉 I am honored to receive the prestigous **Helene M. Overly Memorial Scholarship** from the WTS Michigan Chapter ($2,500)!
 
 
 # 📖 Publications 
