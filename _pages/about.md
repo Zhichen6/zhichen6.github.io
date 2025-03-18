@@ -30,9 +30,10 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 
 
 # 🔥 News
-- *2025*: &nbsp;🎉 I am honored to receive the prestigous **WTS Michigan Helene M. Overly Memorial Scholarship**!
-- *2025.01.09*: &nbsp;🎉 My latest paper [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029) with Dr. Yafeng Yin is accepted by **Transportation Science**.
-- *2024.10.20*:  I will hold session SB35: Learning in Transportation Network Modeling at INFORMS Annual Meeting with my labmate Minghui Wu. Looking forward to seeing you in Seattle! [Click here for session details](images/SB35_LearningInTransportationNetwork.pdf)
+- *2025.03.17*: &nbsp;🎉 Excited to share that my latest paper, [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489), co-authored with Dr. Yafeng Yin, is now published in **Transportation Science**!
+- *2025.03.11*: Honored to be selected as the sole global recipient of the prestigo 2025 **Helene M. Overly Memorial Scholarship** ($10,000) by the WTS International Foundation.
+- *2025.03.10*: Our extended abstract, Differentiated Order Allocation to Electrify Ride-Sourcing Systems, has been accepted for presentation at CASPT & TransitData 2025 in Kyoto!
+- *2025.01.13*: &nbsp;🎉 I am honored to receive the prestigous **Helene M. Overly Memorial Scholarship** from the WTS Michigan Chapter!
 
 
 # 📖 Publications 
@@ -40,11 +41,12 @@ I am honored to receive the Rackham Predoctoral Fellowship and a nomination for 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Science 2025</div><img src='images/ts_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029)
+[End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489)
 
-**Zhichen Liu**, Yafeng Yin, Accepted by *Transportation science*, 2025
+**Zhichen Liu**, Yafeng Yin, *Transportation science*, 2025
 
-[**Poster**](images/ts_e2e_2024_poster.pdf)
+[**Poster**](images/ts_e2e_2024_poster.pdf) [**SSRN**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908029)
+
 </div>
 </div>
 
