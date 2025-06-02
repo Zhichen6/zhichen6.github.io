@@ -22,7 +22,7 @@ redirect_from:
 I’m excited to share that I will be joining the **Department of Civil Engineering at Stony Brook University** as an Assistant Professor beginning Fall 2025. 
 If you’re working in transportation, logistics, AI, operations research, or related fields, I’d love to connect and explore potential collaborations!
 
-My lab is currently recruiting **multiple fully funded PhD students**, as well as motivated MS and BS students, to begin in **Fall 2025, Spring 2026 or Fall 2026**. [**Click here**](images/Prospective_students.pdf)for more details.
+My lab is currently recruiting **multiple fully funded PhD students**, as well as motivated MS and BS students, to begin in **Fall 2025, Spring 2026 or Fall 2026**. [**Click here**](images/Prospective_students.pdf) for more details.
 
 
 # About Me
