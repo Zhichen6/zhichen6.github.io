@@ -19,11 +19,11 @@ redirect_from:
 
 
 
-# Opening
 I’m excited to share that I will be joining the **Department of Civil Engineering at Stony Brook University** as an Assistant Professor beginning Fall 2025. 
 If you’re working in transportation, logistics, AI, operations research, or related fields, I’d love to connect and explore potential collaborations!
 
 My lab is currently recruiting **multiple fully funded PhD students**, as well as motivated MS and BS students, to begin in **Fall 2025, Spring 2026 or Fall 2026**. [**Click here**](images/Prospective_students.pdf)for more details.
+
 
 # About Me
 I am completing my PhD in Civil Engineering (Next Generation Transportation Track) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
@@ -31,6 +31,7 @@ My research brings together human-centered AI, game theory, and data-driven opti
 - **AI-enabled modeling and optimization of complex transportation networks**
 - **Learning, adaptation and regulation in human-autonomous-vehicle interaction**
 - **Economic modeling and regulation in multimodal transportation and the sharing economy**
+
 
 # 🔥 News
 - *2025.03.17*: &nbsp;🎉 Excited to share that my latest paper, [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489), co-authored with Dr. Yafeng Yin, is now published in **Transportation Science**!
