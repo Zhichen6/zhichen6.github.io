@@ -25,9 +25,9 @@ My lab is currently recruiting **multiple fully funded PhD students**, as well a
 
 I am completing my PhD in Civil Engineering (Next Generation Transportation Track) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
 My research brings together human-centered AI, game theory, and data-driven optimization to transform next-generation modeling and computational tools for mobility and logistic systems, with emphasis on connectivity, electrification, and automation. Directions include but not limited to:
-- **AI-enabled analysis and management of urban transportation networks**
-- **AI-enabled learning, adaptation and regulation in human-autonomous-vehicle interaction**
-- **Sustainable shared mobility modeling and policy design**
+- **AI-enabled modeling and optimization of complex transportation networks**
+- **Learning, adaptation and regulation in human-autonomous-vehicle interaction**
+- **Economic modeling and regulation in multimodal transportation and the sharing economy**
 
 # Opening
 - 
