@@ -17,16 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I’m excited to share that I will be joining the **Department of Civil Engineering at Stony Brook University** as an Assistant Professor beginning Fall 2025. 
+If you’re working in transportation, logistics, AI, operations research, or related fields, I’d love to connect and explore potential collaborations!
 
-I am a PhD candidate in Civil Engineering (Next Generation Transportation Track) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
-My research brings together human-centered AI, game theory, and data-driven optimization to transform modeling and decision-making in smart transportation systems. Specifically, I focus on:
+My lab is currently recruiting **multiple fully funded PhD students**, as well as motivated MS and BS students, to begin in **Fall 2025, Spring 2026 or Fall 2026**. [**Click here**]((images/Prospective_students.pdf)) for more details
+
+
+I am completing my PhD in Civil Engineering (Next Generation Transportation Track) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
+My research brings together human-centered AI, game theory, and data-driven optimization to transform next-generation modeling and computational tools for mobility and logistic systems, with emphasis on connectivity, electrification, and automation. Directions include but not limited to:
 - **AI-enabled analysis and management of urban transportation networks**
 - **AI-enabled learning, adaptation and regulation in human-autonomous-vehicle interaction**
 - **Sustainable shared mobility modeling and policy design**
 
-
-I am honored to receive the Rackham Predoctoral Fellowship and a nomination for the College of Engineering's Towner Prize for Outstanding GSIs. **I am currently looking for an assistant professor position in transportation engineering and industrial engineering**.
-
+# Opening
+- 
 
 
 # 🔥 News
