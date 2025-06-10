@@ -34,7 +34,7 @@ My research brings together human-centered AI, game theory, and data-driven opti
 
 
 # 🔥 News
-- *2025.06.06*: &nbsp;🎉 Happy to share that my poster, End-to-End Learning and Intervention of Transportation Network Equilibrium, took 1st place at the [SciFM25 poster session](https://www.scifmconferences.org/).  It was a really meaningful surprise to see my work appreciated by experts outside my field.
+- *2025.06.06*: &nbsp;🎉 Happy to share that my poster, End-to-End Learning and Intervention of Transportation Network Equilibrium, took 1st place at the [Conference on Foundation Models and AI Agents for Science](https://www.scifmconferences.org/) poster session.  It was a really meaningful surprise to see my work appreciated by experts outside my field.
 - *2025.03.17*: &nbsp;🎉 Excited to share that my latest paper, [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489), co-authored with Dr. Yafeng Yin, is now published in **Transportation Science**!
 - *2025.03.11*: Honored to be selected as the sole global recipient of the prestigous 2025 **Helene M. Overly Memorial Scholarship** ($10,000) by the WTS International Foundation.
 - *2025.03.10*: Our extended abstract, Differentiated Order Allocation to Electrify Ride-Sourcing Systems, has been accepted for presentation at CASPT & TransitData 2025 in Kyoto!
