@@ -24,6 +24,9 @@ If you’re working in transportation, logistics, AI, operations research, or re
 
 My lab is currently recruiting **multiple fully funded PhD students**, as well as motivated MS and BS students, to begin in **Fall 2025, Spring 2026 or Fall 2026**. [**Click here**](images/Prospective_students.pdf) for more details.
 
+**For students who have reached out**,  I read every application and truly appreciate the time and effort you put into preparing your materials. Due to the large number of applications, only shortlisted candidates will be contacted for the next steps. I apologize for not being able to reply to everyone individually.
+
+
 
 # About Me
 I am completing my PhD in Civil Engineering (Next Generation Transportation Track) at the University of Michigan, advised by [Prof.Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), with a master in Industrial and Operation Engineering.
