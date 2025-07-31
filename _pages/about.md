@@ -39,7 +39,7 @@ We bring together human-centered AI, game theory, and data-driven optimization t
 ---
 
 <span class="anchor" id="-opening"></span>
-<div style="background-color: #ffffff; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
+<div style="background-color: #f4f0fa; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
 
 # 🚀 Opening
@@ -109,7 +109,7 @@ Feel free to contact me to discuss potential research projects suited to your ba
 ---
 
 <span class="anchor" id="-research"></span>
-<div style="background-color: #f4f0fa; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
+<div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
 
 # 🔬 Research
@@ -189,7 +189,7 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 ---
 
 <span class="anchor" id="-team"></span>
-<div style="background-color: #ffffff; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
+<div style="background-color: #f4f0fa; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
 
 # 👩‍🔬 Team
@@ -220,7 +220,7 @@ See [Opening](#-opening) for details.
 ---
 
 <span class="anchor" id="-connect"></span>
-<div style="background-color: #f4f0fa; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
+<div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
 
 # 🤝 Connect With Us
