@@ -1,15 +1,12 @@
-# main links links
 main:
   - title: "Opening"
-    url: "/opening/"
-
+    url: "/#-opening"
 
   - title: "Research"
-    url: "/research/"
+    url: "/#-research"
 
   - title: "Team"
-    url: "/team/"
-
+    url: "/#-team"
+    
   - title: "Connect"
-    url: "/connect/"
-
+    url: "/#-connect"
