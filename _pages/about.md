@@ -24,13 +24,6 @@ We bring together human-centered AI, game theory, and data-driven optimization t
 - **Learning, adaptation and regulation in human-autonomous-vehicle interaction**
 
 
-🎓 **Multiple PhD Student Opportunities (Spring/Fall 2026)**  
-We are currently recruiting 2–3 PhD students for Spring or Fall 2026. Find out more about the opportunity and how to apply [here](#-opening).
-
-
-🤝 **Partnerships**  
-We welcome collaborations across academia, industry, and government to advance next-generation mobility systems. Whether you're looking to collaborate or connect for mentorship, we’d love to hear from you.
-
 ---
 
 
