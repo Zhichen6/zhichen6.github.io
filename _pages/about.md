@@ -1,3 +1,16 @@
+
+<div style="padding: 40px; background-color: #ffffff; border-radius: 16px; margin-bottom: 40px;">
+
+We bring together human-centered AI, game theory, and data-driven optimization to develop next-generation modeling and computational tools for mobility and logistics systems, with a focus on connectivity, electrification, and automation. Our research directions include, but are not limited to:
+
+<ul>
+  <li><strong>AI-enabled modeling and optimization of complex transportation networks</strong></li>
+  <li><strong>Economic modeling and regulation in multimodal transportation and the sharing economy</strong></li>
+  <li><strong>Learning, adaptation and regulation in human-autonomous-vehicle interaction</strong></li>
+</ul>
+</div>
+
+
 ---
 permalink: /
 title: ""
@@ -17,7 +30,7 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-<div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
+<div style="background-color: #ffffff; padding: 40px 30px; margin-bottom: 24px; border-radius: 16px;">
 <h1 style="color: #6a1b9a; font-weight: bold;">🔥 News</h1>
 
 <ul>
@@ -28,7 +41,7 @@ redirect_from:
 </div>
 
 <span class="anchor" id="-opening"></span>
-<div style="background-color: #f4f0fa; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
+<div style="background-color: #f5f5f5; padding: 40px 30px; margin-bottom: 24px; border-radius: 16px;">
 
 <h1 style="color: #000000; font-weight: bold;">🚀 Opening</h1>
 
@@ -67,7 +80,7 @@ redirect_from:
 </div>
 
 <span class="anchor" id="-research"></span>
-<div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
+<div style="background-color: #ffffff; padding: 40px 30px; margin-bottom: 24px; border-radius: 16px;">
 
 <h1 style="color: #6a1b9a; font-weight: bold;">🔬 Research</h1>
 
@@ -84,7 +97,7 @@ redirect_from:
 </div>
 
 <span class="anchor" id="-team"></span>
-<div style="background-color: #f4f0fa; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
+<div style="background-color: #f5f5f5; padding: 40px 30px; margin-bottom: 24px; border-radius: 16px;">
 
 <h1 style="color: #000000; font-weight: bold;">👩‍🔬 Team</h1>
 
@@ -108,7 +121,7 @@ Recipient of the Helene M. Overly Memorial Scholarship (2025)</p>
 </div>
 
 <span class="anchor" id="-connect"></span>
-<div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
+<div style="background-color: #ffffff; padding: 40px 30px; margin-bottom: 24px; border-radius: 16px;">
 
 <h1 style="color: #6a1b9a; font-weight: bold;">🤝 Connect With Us</h1>
 
