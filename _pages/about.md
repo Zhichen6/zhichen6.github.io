@@ -36,6 +36,8 @@ We bring together human-centered AI, game theory, and data-driven optimization t
 
 - *2025.03.11*: 🎖️ Dr. Zhichen Liu was honored as the **sole global recipient** of the prestigious 2025 **Helene M. Overly Memorial Scholarship** ($10,000) from the WTS International Foundation.
 
+</div>
+
 ---
 
 <span class="anchor" id="-opening"></span>
@@ -105,6 +107,7 @@ We host:
 
 Feel free to contact me to discuss potential research projects suited to your background and interests.
 
+</div>
 
 ---
 
@@ -186,6 +189,7 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 - Large-Scale Inverse Learning of User Equilibrium via Multiconvex Optimization. **Zhichen Liu**, Yafeng Yin, and Xi Lin. Under review with 26th International Symposium on Transportation and Traffic Theory.
 
 
+</div>
 ---
 
 <span class="anchor" id="-team"></span>
@@ -217,6 +221,8 @@ She has published as first author in leading journals including *Transportation 
 We are currently recruiting Ph.D. students and host project-based students at all levels. Profiles will be added as the group grows.  
 See [Opening](#-opening) for details.
 
+</div>
+
 ---
 
 <span class="anchor" id="-connect"></span>
@@ -240,3 +246,4 @@ Feel free to reach out anytime:
 
 - 📧 **Email:** zhichen.liu@stonybrook.edu  
 
+</div>
