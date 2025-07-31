@@ -18,7 +18,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
-<h1>🔥 News</h1>
+<h1 style="color: #6a1b9a; font-weight: bold;">🔥 News</h1>
 
 <ul>
   <li><strong>2025.07.26</strong>: 🎉 Excited to share that our latest paper, <a href="https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489">End-to-End Learning of User Equilibrium</a>, co-authored with Dr. Yafeng Yin, is now published in <em>Transportation Science</em>.</li>
@@ -30,7 +30,7 @@ redirect_from:
 <span class="anchor" id="-opening"></span>
 <div style="background-color: #f4f0fa; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
-<h1>🚀 Opening</h1>
+<h1 style="color: #000000; font-weight: bold;">🚀 Opening</h1>
 
 <h2>Ph.D. Students</h2>
 <p>We are currently recruiting <strong>2–3 Ph.D. students</strong> for Spring or Fall 2026 to join and grow the lab at Stony Brook University.</p>
@@ -69,7 +69,7 @@ redirect_from:
 <span class="anchor" id="-research"></span>
 <div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
-<h1>🔬 Research</h1>
+<h1 style="color: #6a1b9a; font-weight: bold;">🔬 Research</h1>
 
 <p>Our lab focuses on innovating next-generation modeling and computational tools for mobility and logistics systems. Core directions include:</p>
 
@@ -86,7 +86,7 @@ redirect_from:
 <span class="anchor" id="-team"></span>
 <div style="background-color: #f4f0fa; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
-<h1>👩‍🔬 Team</h1>
+<h1 style="color: #000000; font-weight: bold;">👩‍🔬 Team</h1>
 
 <h2>Principal Investigator</h2>
 <p><strong>Dr. Zhichen Liu</strong><br>
@@ -110,7 +110,7 @@ Recipient of the Helene M. Overly Memorial Scholarship (2025)</p>
 <span class="anchor" id="-connect"></span>
 <div style="background-color: #ffffff; padding: 60px 40px; margin-bottom: 40px; border-radius: 16px;">
 
-<h1>🤝 Connect With Us</h1>
+<h1 style="color: #6a1b9a; font-weight: bold;">🤝 Connect With Us</h1>
 
 <h3>Research & Proposals</h3>
 <p>We welcome opportunities to co-develop grant proposals and research projects that bridge academia and real-world impact.</p>
