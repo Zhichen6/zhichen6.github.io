@@ -46,6 +46,8 @@ We welcome collaborations across academia, industry, and government to advance n
 ---
 
 <span class="anchor" id="-opening"></span>
+<div style="background-color: #ffffff; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
+
 
 # 🚀 Opening
 
@@ -90,7 +92,6 @@ For the best use of your time and mine, please follow the steps below when apply
 
 
 🔗 **More Info**  
-**More Info:**  
 - [CEE Application Info](https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1)  
 - [Graduate School Info](https://www.stonybrook.edu/commcms/grad/admissions/apply/graduate-programs.php)  
 - [Life at Stony Brook](https://www.stonybrook.edu/commcms/grad/admissions/campus-life.php)
@@ -115,6 +116,7 @@ Feel free to contact me to discuss potential research projects suited to your ba
 ---
 
 <span class="anchor" id="-research"></span>
+<div style="background-color: #f4f0fa; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
 
 
 # 🔬 Research
@@ -194,6 +196,8 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 ---
 
 <span class="anchor" id="-team"></span>
+<div style="background-color: #ffffff; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
+
 
 # 👩‍🔬 Team
 
@@ -223,6 +227,7 @@ See [Opening](#-opening) for details.
 ---
 
 <span class="anchor" id="-connect"></span>
+<div style="background-color: #f4f0fa; padding: 40px; margin-bottom: 40px; border-radius: 12px;">
 
 
 # 🤝 Connect With Us
