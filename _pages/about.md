@@ -40,16 +40,9 @@ We bring together human-centered AI, game theory, and data-driven optimization t
 
 # 🚀 Opening
 
-We are building a collaborative and interdisciplinary research lab and are actively looking for motivated students to join us.
+Stony Brook University is a flagship R1 institution in the State University of New York (SUNY) system, located near New York City. It is home to a distinguished faculty that includes four Nobel Prize winners. We are building a collaborative and interdisciplinary research lab and are actively looking for motivated students to join us.
 
-## Ph.D. Students
-
-We are currently recruiting **2–3 Ph.D. students** for Spring or Fall 2026 to join and grow the lab.
-
-Stony Brook University is a flagship R1 institution in the State University of New York (SUNY) system, located near New York City. It is home to a distinguished faculty that includes four Nobel Prize winners.  
-
-🗓️ **Next Priority Deadline:** October 1, 2025  
-💰 **Funding:** 4–5 years of funding (includes a competitive stipend and full tuition waiver)
+## 🌟 2-3 Ph.D. Students for Spring or Fall 2026, 4–5 years of funding (includes a very competitive stipend and full tuition waiver)
 
 ### Qualifications
 
@@ -57,17 +50,13 @@ Stony Brook University is a flagship R1 institution in the State University of N
 - Proficiency in programming and computational tools is preferred.
 - Strong background and interest in operations research (convex/nonconvex/stochastic optimization), machine learning (deep/reinforcement learning), game theory, or mechanism design is preferred.  
 
-PhD positions include 4–5 years of research funding (a very competitive stipend plus tuition waiver). 
 
-### Application Process
+### Please follw the steps below when applying:
 
-For the best use of your time and mine, please follow the steps below when applying:
-
-1.  If you are interested, please send an email to Zhichen.Liu@stonybrook.edu with the subject line "Prospective Student - YOURNAME" including your CV and transcript. Depending on your visa status, you may begin in Spring 2026 or Fall 2026. 
+1.  If you are interested, please send an email to **Zhichen.Liu@stonybrook.edu with the subject line "Prospective Student - YOURNAME" including your CV and transcript. Depending on your visa status, you may begin in Spring 2026 or Fall 2026. 
 
 2.  If you appear to be a potential fit, I will reach out to schedule a 30-minute screening interview. This will be an informal conversation for us to get to know each other and discuss your interests and goals.
 
-3.  If we both feel there is strong alignment, I will invite you for a formal one-hour interview focused on research design and behavioral questions
 
 ### Please Note:
 
@@ -75,28 +64,22 @@ For the best use of your time and mine, please follow the steps below when apply
 
 - Admission is on a rolling basis. If this information is still posted here, the application is still open.
 
+- Next Priority Date:** October 1, 2025 for Spring 2026. You can check [CEE Application Information] here (https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1)  
+
 - Our department has openings for the GAANN fellowship program. The prospective student can choose any Civil Engineering faculty member to be their academic advisor. Contact me if you are interested and eligible to apply.
 
-🔗 **More Info**  
-- [CEE Application Info](https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1)  
-- [Graduate School Info](https://www.stonybrook.edu/commcms/grad/admissions/apply/graduate-programs.php)  
-- [Life at Stony Brook](https://www.stonybrook.edu/commcms/grad/admissions/campus-life.php)
 
 ---
 
-## M.S. Students
+## 🌟  M.S. Students
 
 While my lab currently does not offer funded positions for M.S. students, I welcome those interested in completing their M.S. projects under my supervision. If you're seeking a project advisor, feel free to reach out to discuss potential research topics.
 
 ---
 
-## Undergraduate / High School Students
+## 🌟 Undergraduate / High School Students
 
-We host:
-- In-person undergraduate and high school students  
-- Remote research interns interested in pursuing a Ph.D.  
-
-Feel free to contact me to discuss potential research projects suited to your background and interests.
+We host in-person undergraduate and high school students as well as Remote research interns interested in pursuing a Ph.D. Feel free to contact me to discuss potential research projects suited to your background and interests.
 
 
 
@@ -159,17 +142,18 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 </div>
 </div>
 
-### Other Papers
+### 🌟 Other Papers
 - [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
 - [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
 
 
-### Research in Progress
+### 🌟 Research in Progress
 
 - Inverse Learning of Congestion Game via Multiconvex Optimization. **Zhichen Liu**, Xi Lin and Yafeng Yin. *Under review with the 26th International Symposium on Transportation and Traffic Theory*. 
 - Distributionally Robust Transportation Networks Design with Contextual Uncertainty. **Zhichen Liu**, Yafeng Yin, and Xi Lin. *Preprint accepted at the 2025 TRB Annual Meeting*.
 - Electrify Ridesourcing System with Differential Matching. Preprint accepted at CASPT2025.
 - Large-Scale Inverse Learning of User Equilibrium via Multiconvex Optimization. **Zhichen Liu**, Yafeng Yin, and Xi Lin. Under review with 26th International Symposium on Transportation and Traffic Theory.
+- Learning Perturbed Utility Route Choice from Trajectories. Ben Rosenblad, Peisen Li, Yafeng Yin, and **Zhichen Liu**. 
 
 ---
 
@@ -177,13 +161,11 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 
 # 👩‍🔬 Team
 
-## Principal Investigator
+## 🌟 Principal Investigator
 
-**Dr. Zhichen Liu**  
+**Dr. Zhichen Liu** received her Ph.D. in Civil Engineering from the University of Michigan, where she was advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/). She also earned a dual Master’s degree in Industrial and Operations Engineering from the University of Michigan.
 
-Dr. Zhichen Liu received her Ph.D. in Civil Engineering from the University of Michigan, where she was advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/). She also earned a dual Master’s degree in Industrial and Operations Engineering from the University of Michigan.
-
-She has published as first author in leading journals including *Transportation Science* and *Transportation Research Part C*, and previously served as a Visiting Scientist at General Motors. Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global awardee of the prestigious **Helene M. Overly Memorial Scholarship (2025)** by the WTS International Foundation for her contributions to research and community service.  She also serves as a reviewer for *Transportation Science*, *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Technology*, *Transportation Research Record*, and other leading journals in the field.
+Dr. Liu has published as first author in leading journals including *Transportation Science* and *Transportation Research Part C*, and previously served as a Visiting Scientist at General Motors. Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global awardee of the prestigious **Helene M. Overly Memorial Scholarship (2025)** by the WTS International Foundation for her contributions to research and community service.  She also serves as a reviewer for *Transportation Science*, *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Technology*, *Transportation Research Record*, and other leading journals in the field.
 
 ### Professional Experience
 
@@ -193,10 +175,9 @@ She has published as first author in leading journals including *Transportation 
 
 ---
 
-## Current Members
+## 🌟 Current Members
 
-We are currently recruiting Ph.D. students and host project-based students at all levels. Profiles will be added as the group grows.  
-See [Opening](#-opening) for details.
+We are currently recruiting Ph.D. students and host project-based students at all levels. Profiles will be added as the group grows. See [Opening](#-opening) for details.
 
 
 ---
