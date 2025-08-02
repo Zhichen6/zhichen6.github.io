@@ -1,6 +1,4 @@
 main:
-  - title: "Opening"
-    url: "/#-opening"
 
   - title: "Research"
     url: "/#-research"
@@ -8,5 +6,8 @@ main:
   - title: "Team"
     url: "/#-team"
     
+  - title: "Opening"
+    url: "/#-opening"
+
   - title: "Connect"
     url: "/#-connect"

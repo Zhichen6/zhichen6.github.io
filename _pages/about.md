@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-We bring together human-centered AI, game theory, and data-driven optimization to develop next-generation modeling and computational tools for mobility and logistics systems, with a focus on connectivity, electrification, and automation. Our research directions include, but are not limited to:
+We bring together human-centered AI, game theory, and data-driven optimization to develop next-generation modeling and computational tools for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
 
-- **AI-enabled modeling and optimization of complex transportation networks**
-- **Economic modeling and regulation in multimodal transportation and the sharing economy**
-- **Learning, adaptation and regulation in human-autonomous-vehicle interaction**
+We are recruiting **2-3 fully funded PhD students** beginning Spring/Fall 2026, as well as motivated MS and BS students. See [Opening](#-opening) for details.
 
 ---
 
@@ -36,70 +34,21 @@ We bring together human-centered AI, game theory, and data-driven optimization t
 
 ---
 
-<span class="anchor" id="-opening"></span>
-
-# 🚀 Opening
-
-Stony Brook University is a flagship R1 institution in the State University of New York (SUNY) system, located near New York City. It is home to a distinguished faculty that includes four Nobel Prize winners. We are building a collaborative and interdisciplinary research lab and are actively looking for motivated students to join us.
-
-## 🌟 2-3 Ph.D. Students for Spring or Fall 2026, 4–5 years of funding (includes a very competitive stipend and full tuition waiver)
-
-### Qualifications
-
-- Hold or pursue a Bachelor’s or Master’s degree in Civil Engineering, Industrial Engineering, Electrical and Computer Engineering, Applied Mathematics, Statistics, or a related field.  
-- Proficiency in programming and computational tools is preferred.
-- Strong background and interest in operations research (convex/nonconvex/stochastic optimization), machine learning (deep/reinforcement learning), game theory, or mechanism design is preferred.  
-
-
-### Please follw the steps below when applying:
-
-1.  If you are interested, please send an email to **Zhichen.Liu@stonybrook.edu with the subject line "Prospective Student - YOURNAME" including your CV and transcript. Depending on your visa status, you may begin in Spring 2026 or Fall 2026. 
-
-2.  If you appear to be a potential fit, I will reach out to schedule a 30-minute screening interview. This will be an informal conversation for us to get to know each other and discuss your interests and goals.
-
-
-### Please Note:
-
-- For students who have reached out, I carefully read every application and truly appreciate the time and effort you put into preparing your materials. Due to the large number of applications, only shortlisted candidates will be contacted for the next steps. I apologize for not being able to reply to everyone individually.
-
-- Admission is on a rolling basis. If this information is still posted here, the application is still open.
-
-- Next Priority Date:** October 1, 2025 for Spring 2026. You can check [CEE Application Information] here (https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1)  
-
-- Our department has openings for the GAANN fellowship program. The prospective student can choose any Civil Engineering faculty member to be their academic advisor. Contact me if you are interested and eligible to apply.
-
-
----
-
-## 🌟  M.S. Students
-
-While my lab currently does not offer funded positions for M.S. students, I welcome those interested in completing their M.S. projects under my supervision. If you're seeking a project advisor, feel free to reach out to discuss potential research topics.
-
----
-
-## 🌟 Undergraduate / High School Students
-
-We host in-person undergraduate and high school students as well as Remote research interns interested in pursuing a Ph.D. Feel free to contact me to discuss potential research projects suited to your background and interests.
-
-
-
----
-
 <span class="anchor" id="-research"></span>
 
 # 🔬 Research
 
 Our lab focuses on innovating next-generation modeling and computational tools for mobility and logistics systems, with a emphasis on connectivity, electrification, and automation. Our core research directions include, but are not limited to:
 
-### 1. AI-Enabled Modeling and Optimization of Transportation Networks
+### *1. AI-Enabled Modeling and Optimization of Transportation Networks*
 
 By 2035, nearly half of all new vehicles in the United States will be connected, generating unprecedented volumes of mobility data. We are developing an AI-enabled inverse learning framework that leverages advances in machine learning and corwdsourced mobility data to transform the foundational paradigm of transportation network equilibrium modeling — a pillar of transportation system planning and management for over seventy years.
 
-### 2. Economic Modeling and Regulation in Multimodal Transportation and the Sharing Economy
+### *2. Economic Modeling and Regulation in Multimodal Transportation and the Sharing Economy*
 
 Ridesourcing vehicles generate nearly three times the vehicle miles traveled compared to private vehicles and are destined to be the next special fleet for electrification. However, high purchase costs and limited access to fast charging remain major barriers. This direction develop a novel aggregate equilibrium model for the electrified ridesourcing system and design innovative (i) regulatory policies and (ii) differential matching mechanisms to accelerate the electrification.
 
-### 3. Learning, Adaptation, and Policy Design in Human–Autonomous Vehicle Interactions
+### *3. Learning, Adaptation, and Policy Design in Human–Autonomous Vehicle Interactions*
 
 By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous. As humans and AVs increasingly share the road, complex interaction dynamics will emerge. While some believe AVs will enhance safety, others raise concerns that AVs’ strict adherence to traffic laws may provoke aggressive behaviors — for instance, pedestrians intentionally running red lights — potentially destabilizing traffic flow. This research seeks to model and inform the co-adaptation of humans and autonomous systems. Our goal is to support policymakers in designing behavioral and regulatory strategies that improve safety, reduce congestion and emissions, and facilitate broader AV adoption.
 
@@ -178,6 +127,55 @@ Dr. Liu has published as first author in leading journals including *Transportat
 ## 🌟 Current Members
 
 We are currently recruiting Ph.D. students and host project-based students at all levels. Profiles will be added as the group grows. See [Opening](#-opening) for details.
+
+
+---
+
+<span class="anchor" id="-opening"></span>
+
+# 🚀 Opening
+
+Stony Brook University is a flagship R1 institution in the State University of New York (SUNY) system, located near New York City. It is home to a distinguished faculty that includes four Nobel Prize winners. We are building a collaborative and interdisciplinary research lab and are actively looking for motivated students to join us.
+
+## 🌟 2-3 Ph.D. Students for Spring or Fall 2026, 4–5 years of funding (includes a very competitive stipend and full tuition waiver)
+
+### *Qualifications*
+
+- Hold or pursue a Bachelor’s or Master’s degree in Civil Engineering, Industrial Engineering, Electrical and Computer Engineering, Applied Mathematics, Statistics, or a related field.  
+- Proficiency in programming and computational tools is preferred.
+- Strong background and interest in operations research (convex/nonconvex/stochastic optimization), machine learning (deep/reinforcement learning), game theory, or mechanism design is preferred.  
+
+
+### *Please follw the steps below when applying:*
+
+1.  If you are interested, please send an email to *Zhichen.Liu@stonybrook.edu* with the subject line "Prospective Student - YOURNAME" including your CV and transcript. 
+
+2.  If you appear to be a potential fit, I will reach out to schedule a 30-minute screening interview. This will be an informal conversation for us to get to know each other and discuss your interests and goals.
+
+
+### *Please Note:*
+
+- For students who have reached out, I carefully read every application and truly appreciate the time and effort you put into preparing your materials. Due to the large number of applications, only shortlisted candidates will be contacted for the next steps. I apologize for not being able to reply to everyone individually.
+
+- Admission is on a rolling basis. If this information is still posted here, the application is still open.
+
+- Next Priority Date: *October 1, 2025 for Spring 2026*. You can check [CEE Application Information] (https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1).
+
+- Our department has openings for the GAANN fellowship program. The prospective student can choose any Civil Engineering faculty member to be their academic advisor. Contact me if you are interested and eligible to apply.
+
+
+---
+
+## 🌟  M.S. Students
+
+While my lab currently does not offer funded positions for M.S. students, I welcome those interested in completing their M.S. projects under my supervision. If you're seeking a project advisor, feel free to reach out to discuss potential research topics.
+
+---
+
+## 🌟 Undergraduate / High School Students
+
+We host in-person undergraduate and high school students as well as Remote research interns interested in pursuing a Ph.D. Feel free to contact me to discuss potential research projects suited to your background and interests.
+
 
 
 ---
