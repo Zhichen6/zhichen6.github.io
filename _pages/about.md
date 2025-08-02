@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-We bring together human-centered AI, game theory, and data-driven optimization to develop next-generation modeling and computational tools for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
+We bring together human-centered AI, game theory, and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
 
-We are recruiting **2-3 fully funded PhD students** beginning Spring/Fall 2026, as well as motivated MS and BS students. See [Opening](#-opening) for details.
+📢 We are recruiting **2-3 fully funded PhD students** beginning Spring/Fall 2026, as well as motivated MS and BS students. See [Opening](#-opening) for details.
 
 ---
 
@@ -159,7 +159,7 @@ Stony Brook University is a flagship R1 institution in the State University of N
 
 - Admission is on a rolling basis. If this information is still posted here, the application is still open.
 
-- Next Priority Date: *October 1, 2025 for Spring 2026*. You can check [CEE Application Information] (https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1).
+- Next Priority Date: *October 1, 2025 for Spring 2026*. You can check [CEE Application Information](https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1).
 
 - Our department has openings for the GAANN fellowship program. The prospective student can choose any Civil Engineering faculty member to be their academic advisor. Contact me if you are interested and eligible to apply.
 
