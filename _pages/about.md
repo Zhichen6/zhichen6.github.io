@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-We bring together human-centered AI, game theory, and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
+SBU AI Mobility Lab brings together human-centered AI, game theory, and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
 
 📢 We are recruiting **2-3 fully funded PhD students** beginning Spring/Fall 2026, as well as motivated MS and BS students. See [Opening](#-opening) for details.
 
@@ -38,7 +38,7 @@ We bring together human-centered AI, game theory, and data-driven optimization t
 
 # 🔬 Research
 
-Our lab focuses on innovating next-generation modeling and computational tools for mobility and logistics systems, with a emphasis on connectivity, electrification, and automation. Our core research directions include, but are not limited to:
+SBU AI Mobility lab focuses on innovating next-generation modeling and computational tools for mobility and logistics systems, with a emphasis on connectivity, electrification, and automation. Our core research directions include, but are not limited to:
 
 ### *1. AI-Enabled Modeling and Optimization of Transportation Networks*
 
@@ -98,11 +98,10 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 
 ### 🌟 Research in Progress
 
-- Inverse Learning of Congestion Game via Multiconvex Optimization. **Zhichen Liu**, Xi Lin and Yafeng Yin. *Under review with the 26th International Symposium on Transportation and Traffic Theory*. 
+- Large-Scale Inverse Learning of User Equilibrium via Multiconvex Optimization. **Zhichen Liu**, Yafeng Yin and Xi Lin. *Under second-round review with the 26th International Symposium on Transportation and Traffic Theory*. 
 - Distributionally Robust Transportation Networks Design with Contextual Uncertainty. **Zhichen Liu**, Yafeng Yin, and Xi Lin. *Preprint accepted at the 2025 TRB Annual Meeting*.
 - Electrify Ridesourcing System with Differential Matching. Preprint accepted at CASPT2025.
-- Large-Scale Inverse Learning of User Equilibrium via Multiconvex Optimization. **Zhichen Liu**, Yafeng Yin, and Xi Lin. Under review with 26th International Symposium on Transportation and Traffic Theory.
-- Learning Perturbed Utility Route Choice from Trajectories. Ben Rosenblad, Peisen Li, Yafeng Yin, and **Zhichen Liu**. 
+- Learning Perturbed Utility Route Choice from Trajectories. Ben Rosenblad, Peisen Li, Yafeng Yin, and **Zhichen Liu**. *Submitted to the 2026 TRB Annual Meeting*.
 
 ---
 
@@ -114,11 +113,11 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 
 **Dr. Zhichen Liu** received her Ph.D. in Civil Engineering from the University of Michigan, where she was advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/). She also earned a dual Master’s degree in Industrial and Operations Engineering from the University of Michigan.
 
-Dr. Liu has published as first author in leading journals including *Transportation Science* and *Transportation Research Part C*, and previously served as a Visiting Scientist at General Motors. Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global awardee of the prestigious **Helene M. Overly Memorial Scholarship (2025)** by the WTS International Foundation for her contributions to research and community service.  She also serves as a reviewer for *Transportation Science*, *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Technology*, *Transportation Research Record*, and other leading journals in the field.
+Dr. Liu has published as first author in leading journals including *Transportation Science*, and previously served as a Visiting Scientist at General Motors. Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global awardee of the prestigious **Helene M. Overly Memorial Scholarship (2025)** by the WTS International Foundation for her contributions to research and community service.  She also serves as a reviewer for *Transportation Science*, *Transportation Research Part B/C/E*, *IEEE Transactions on Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Technology*, *Transportation Research Record*, and other leading journals in the field.
 
 ### Professional Experience
 
-- Incoming Assistant Professor (Tenure-Track), Department of Civil Engineering, Stony Brook University (Starting September 2025)  
+- Assistant Professor (Tenure-Track), Department of Civil Engineering, Stony Brook University (September 2025 - present)  
 - Visiting Scientist, General Motors, Warren, MI (July–November 2023)  
 - Research Assistant, NYU Shanghai, Civil Engineering (August 2020 – May 2021)
 

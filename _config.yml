@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhichen Liu"
-description              : "Incoming Assistant Professor in Civil Engineering at Stony Brook University"
+description              : "Assistant Professor in Civil Engineering at Stony Brook University"
 repository               : "Zhichen6/zhichen6.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhichen Liu"
   avatar           : "images/avatar.jpg"
-  bio              : "University of Michigan"
-  location         : "Ann Arbor, Michigan"
+  bio              : "Stony Brook University"
+  location         : "Stony Brook, New York"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en"
-  email            : "zhichliu@umich.edu"
+  email            : "zhichen.liu@stonybrook.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
