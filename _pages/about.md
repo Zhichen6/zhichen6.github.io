@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-SBU AI Mobility Lab brings together human-centered AI, game theory, and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
+SBU Mobility Lab brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
 
 📢 We are recruiting **2-3 fully funded PhD students** beginning Spring/Fall 2026, as well as motivated MS and BS students. See [Opening](#-opening) for details.
 
@@ -25,9 +25,9 @@ SBU AI Mobility Lab brings together human-centered AI, game theory, and data-dri
 
 # 🔥 News
 
-- *2025.07.26*: 🎉 Excited to share that our latest paper, [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489), co-authored with Dr. Yafeng Yin, is now published in **Transportation Science**!
+- *2026.05.20* 🎉 Excited to share that our latest paper, [Large-scale inverse learning of user equilibrium via multiconvex optimization](https://www.sciencedirect.com/science/article/pii/S0191261526000755), is now published in **Transportation Research Part B**!
 
-- *2025.06.06*: 🎉 Our poster, *End-to-End Learning and Intervention of Transportation Network Equilibrium*, won **1st place** at the [Conference on Foundation Models and AI Agents for Science](https://www.scifmconferences.org/). It was incredibly meaningful to see our work appreciated by experts beyond our core field.
+- *2025.07.26*: 🎉 Excited to share that our latest paper, [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489), co-authored with Dr. Yafeng Yin, is now published in **Transportation Science**!
 
 - *2025.03.11*: 🎖️ Dr. Zhichen Liu was honored as the **sole global recipient** of the prestigious 2025 **Helene M. Overly Memorial Scholarship** ($10,000) from the WTS International Foundation.
 
@@ -38,11 +38,11 @@ SBU AI Mobility Lab brings together human-centered AI, game theory, and data-dri
 
 # 🔬 Research
 
-SBU AI Mobility lab focuses on innovating next-generation modeling and computational tools for mobility and logistics systems, with a emphasis on connectivity, electrification, and automation. Our core research directions include, but are not limited to:
+SBU Mobility lab focuses on innovating next-generation modeling and computational tools for mobility and logistics systems, with a emphasis on connectivity, electrification, and automation. Our core research directions include, but are not limited to:
 
-### *1. AI-Enabled Modeling and Optimization of Transportation Networks*
+### *1. Data-driven Modeling and Optimization of Transportation Networks*
 
-By 2035, nearly half of all new vehicles in the United States will be connected, generating unprecedented volumes of mobility data. We are developing an AI-enabled inverse learning framework that leverages advances in machine learning and corwdsourced mobility data to transform the foundational paradigm of transportation network equilibrium modeling — a pillar of transportation system planning and management for over seventy years.
+By 2035, nearly half of all new vehicles in the United States will be connected, generating unprecedented volumes of mobility data. We are developing an inverse learning framework that leverages advances in corwdsourced mobility data to transform the foundational paradigm of transportation network equilibrium modeling — a pillar of transportation system planning and management for over seventy years.
 
 ### *2. Economic Modeling and Regulation in Multimodal Transportation and the Sharing Economy*
 
@@ -91,18 +91,6 @@ By 2045, half of all new vehicles sold in the U.S. are expected to be autonomous
 </div>
 </div>
 
-### 🌟 Other Papers
-- [Dynamic origin-destination flow prediction using spatial-temporal graph convolution network with mobile phone data](https://ieeexplore.ieee.org/abstract/document/9462708), **Zhichen Liu**, Zhiyuan Liu, Xiao Fu, *IEEE Intelligent Transportation Systems Magazine*, 2021.
-- [Estimating Sectional Volume of Travelers Based on Mobile Phone Data](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000429), **Zhichen Liu**, Xiao Fu, Yang Liu, Weiping Tong, Zhiyuan Liu *Journal of Transportation Engineering, Part A: Systems*, 2020.
-
-
-### 🌟 Research in Progress
-
-- Large-Scale Inverse Learning of User Equilibrium via Multiconvex Optimization. **Zhichen Liu**, Yafeng Yin and Xi Lin. *Under second-round review with the 26th International Symposium on Transportation and Traffic Theory*. 
-- Distributionally Robust Transportation Networks Design with Contextual Uncertainty. **Zhichen Liu**, Yafeng Yin, and Xi Lin. *Preprint accepted at the 2025 TRB Annual Meeting*.
-- Electrify Ridesourcing System with Differential Matching. Preprint accepted at CASPT2025.
-- Learning Perturbed Utility Route Choice from Trajectories. Ben Rosenblad, Peisen Li, Yafeng Yin, and **Zhichen Liu**. *Submitted to the 2026 TRB Annual Meeting*.
-
 ---
 
 <span class="anchor" id="-team"></span>
@@ -117,7 +105,7 @@ Dr. Liu has published as first author in leading journals including *Transportat
 
 ### Professional Experience
 
-- Assistant Professor (Tenure-Track), Department of Civil Engineering, Stony Brook University (September 2025 - present)  
+- Assistant Professor, Department of Civil Engineering, Stony Brook University (September 2025 - present)  
 - Visiting Scientist, General Motors, Warren, MI (July–November 2023)  
 - Research Assistant, NYU Shanghai, Civil Engineering (August 2020 – May 2021)
 
