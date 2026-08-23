@@ -34,7 +34,9 @@ The position includes a very competitive stipend and a full tuition waiver.
 
 - For students who have reached out, I carefully read every application and truly appreciate the time and effort you put into preparing your materials. Due to the large number of applications, only shortlisted candidates will be contacted for the next steps. I apologize for not being able to reply to everyone individually.
 - Admission is on a rolling basis. If this information is still posted here, the application is still open.
-- Next Priority Date: *October 1, 2025 for Spring 2026*. You can check [CEE Application Information](https://www.stonybrook.edu/civileng/graduate/how_to_apply_civ_phd_admissions_how.pcf#/tab1).
+- **Application deadlines** — see [CEE graduate admissions](https://www.stonybrook.edu/civileng/academics/graduate/admissions/index.html) for the official schedule:
+    - *Spring 2027*: October 1, 2026 (international) · December 1, 2026 (domestic)
+    - *Fall 2027*: January 15, 2027 (priority) · May 1, 2027 (international) · July 15, 2027 (domestic)
 - Our department has openings for the GAANN fellowship program. The prospective student can choose any Civil Engineering faculty member to be their academic advisor. Contact me if you are interested and eligible to apply.
 
 ---
