@@ -1,8 +1,22 @@
+{%- comment -%}
+  The logo is used only when images/logo.png is actually present, so the header
+  falls back to the text wordmark until the file is added.
+{%- endcomment -%}
+{%- assign logo_src = '' -%}
+{%- for f in site.static_files -%}
+  {%- if f.path == '/images/logo.png' -%}{%- assign logo_src = f.path -%}{%- endif -%}
+{%- endfor -%}
+
 <header class="site-header">
   <div class="wrap-max site-header__inner">
-    <a class="site-header__brand" href="{{ '/' | relative_url }}">
-      Zhichen Liu
-      <span>M&sup2; Lab at Stony Brook</span>
+    <a class="site-header__brand{% if logo_src != '' %} site-header__brand--logo{% endif %}" href="{{ '/' | relative_url }}">
+      {%- if logo_src != '' %}
+      <img class="site-header__logo" src="{{ logo_src | relative_url }}" alt="M2 Lab">
+      {%- endif %}
+      <span class="site-header__text">
+        Zhichen Liu
+        <span>M2 Lab at Stony Brook</span>
+      </span>
     </a>
 
     <nav class="site-nav" id="site-nav" aria-label="Main">

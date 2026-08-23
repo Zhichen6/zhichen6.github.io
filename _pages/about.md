@@ -16,7 +16,7 @@ redirect_from:
 <div class="wrap">
 <div class="page__content" markdown="1">
 
-The Mobility and Machine Intelligence Lab (M&sup2; Lab) at Stony Brook University brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](/research/) for details.
+The Mobility and Machine Intelligence Lab (M2 Lab) at Stony Brook University brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](/research/) for details.
 
 We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as well as motivated MS and BS students. See [Openings](/openings/) for details.
 
@@ -47,7 +47,7 @@ We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as w
 
 {%- if archived_count > 0 %}
 <details class="news-archive">
-  <summary><span>Earlier news</span><span class="news-archive__count">{{ archived_count }}</span></summary>
+  <summary><span>Earlier news</span></summary>
   <ul class="news-list">
   {%- for item in news offset: shown %}
     <li>
