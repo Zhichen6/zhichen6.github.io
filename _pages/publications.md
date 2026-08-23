@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 hero_title: "Selected Publications"
 hero_image: "/images/hero.jpg"
-excerpt: "Peer-reviewed papers and working papers from the AI Mobility Lab at Stony Brook University."
+excerpt: "Peer-reviewed papers and working papers from the Mobility and Machine Intelligence Lab at Stony Brook."
 ---
 
 <div class="page-section">

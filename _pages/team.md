@@ -3,7 +3,7 @@ permalink: /team/
 title: "Team"
 hero_image: "/images/hero.jpg"
 hero_title: "Team"
-excerpt: "The people behind the AI Mobility Lab at Stony Brook University."
+excerpt: "The people behind the Mobility and Machine Intelligence Lab at Stony Brook."
 ---
 
 <div class="page-section">
@@ -49,7 +49,7 @@ Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Techn
     <img class="member-box__photo" src="/images/zhanyu.png" alt="Zhanyu Feng">
     <span class="member-box__name">Zhanyu Feng</span>
     <span class="member-box__role">Ph.D. Student</span>
-    <p class="member-box__bio">Zhanyu Feng received his B.S. degree in Traffic and Transportation from Hefei University of Technology in 2022, and his M.S. degree in Communication and Transportation from Southeast University. Prior to joining the AI Mobility Lab, he served as a Research Assistant at NYU Shanghai. His research focuses on decision-focused learning, transportation network modeling, and optimization and control for connected and autonomous electric vehicles.</p>
+    <p class="member-box__bio">Zhanyu Feng received his B.S. degree in Traffic and Transportation from Hefei University of Technology in 2022, and his M.S. degree in Communication and Transportation from Southeast University. Prior to joining the M&sup2; Lab, he served as a Research Assistant at NYU Shanghai. His research focuses on decision-focused learning, transportation network modeling, and optimization and control for connected and autonomous electric vehicles.</p>
   </li>
 
   <li class="member-box">

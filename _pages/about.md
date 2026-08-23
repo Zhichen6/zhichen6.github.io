@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "AI Mobility Lab @ Stony Brook"
-hero_title: "AI Mobility Lab @ Stony Brook"
+title: "Mobility and Machine Intelligence Lab at Stony Brook"
+hero_title: "Mobility and Machine Intelligence Lab"
 hero_tagline: "Game theory and data-driven optimization for next-generation mobility and logistics systems — connectivity, electrification, and automation."
 hero_cta_url: "/openings/"
 hero_cta_text: "We are recruiting"
@@ -16,7 +16,7 @@ redirect_from:
 <div class="wrap">
 <div class="page__content" markdown="1">
 
-The AI Mobility Lab at Stony Brook University brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](/research/) for details.
+The Mobility and Machine Intelligence Lab (M&sup2; Lab) at Stony Brook University brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](/research/) for details.
 
 We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as well as motivated MS and BS students. See [Openings](/openings/) for details.
 

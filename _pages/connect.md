@@ -3,7 +3,7 @@ permalink: /connect/
 title: "Connect"
 hero_image: "/images/hero.jpg"
 hero_title: "Connect With Us"
-excerpt: "Partner with the AI Mobility Lab at Stony Brook University."
+excerpt: "Partner with the Mobility and Machine Intelligence Lab at Stony Brook."
 ---
 
 <div class="page-section">

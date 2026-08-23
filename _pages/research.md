@@ -9,7 +9,7 @@ excerpt: "Next-generation modeling and computational tools for mobility and logi
 <div class="page-section">
 <div class="wrap">
 
-<p class="section-lede">The AI Mobility Lab at Stony Brook University focuses on innovating next-generation modeling and computational tools for mobility and logistics systems, with an emphasis on connectivity, electrification, and automation. Our core research directions include, but are not limited to:</p>
+<p class="section-lede">The M&sup2; Lab at Stony Brook focuses on innovating next-generation modeling and computational tools for mobility and logistics systems, with an emphasis on connectivity, electrification, and automation. Our core research directions include, but are not limited to:</p>
 
 <div class="direction">
   <div class="direction__media"><img src="/images/research-networks.jpg" alt="Long-exposure traffic flow on an urban freeway at night"></div>
