@@ -3,7 +3,7 @@ permalink: /research/
 hero_image: "/images/hero.jpg"
 title: "Research"
 hero_title: "Research"
-excerpt: "Next-generation modeling and computational tools for mobility and logistics systems."
+excerpt: "Research at the M2 Lab, Stony Brook: network equilibrium and inverse learning, ridesourcing electrification, and human–autonomous vehicle interaction."
 ---
 
 <div class="page-section">

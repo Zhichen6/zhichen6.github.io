@@ -5,7 +5,7 @@ redirect_from:
 title: "Openings"
 hero_image: "/images/hero.jpg"
 hero_title: "Openings"
-excerpt: "We are recruiting fully funded Ph.D. students for Spring or Fall 2027."
+excerpt: "Fully funded Ph.D. positions for Spring and Fall 2027 in the M2 Lab at Stony Brook University, plus M.S. and undergraduate research opportunities."
 ---
 
 <div class="page-section">

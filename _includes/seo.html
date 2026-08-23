@@ -4,7 +4,7 @@
 
 {%- comment -%} Per-page title. Previously every page emitted the same string. {%- endcomment -%}
 {%- if page.url == '/' -%}
-  {%- assign seo_title = site.title | append: ' | ' | append: site.lab_name | append: ', ' | append: site.institution -%}
+  {%- assign seo_title = site.title | append: ' | ' | append: site.lab_name -%}
 {%- else -%}
   {%- assign seo_title = page.title | append: ' | ' | append: site.title | append: ', ' | append: site.lab_short | append: ' at Stony Brook' -%}
 {%- endif -%}

@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 hero_title: "Selected Publications"
 hero_image: "/images/hero.jpg"
-excerpt: "Peer-reviewed papers and working papers from the Mobility and Machine Intelligence Lab at Stony Brook."
+excerpt: "Selected papers by Zhichen Liu in Transportation Science and Transportation Research Part B/C on user equilibrium learning and network modeling."
 ---
 
 <div class="page-section">

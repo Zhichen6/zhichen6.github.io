@@ -3,7 +3,7 @@ permalink: /team/
 title: "Team"
 hero_image: "/images/hero.jpg"
 hero_title: "Team"
-excerpt: "The people behind the Mobility and Machine Intelligence Lab at Stony Brook."
+excerpt: "The people of the Mobility and Machine Intelligence Lab at Stony Brook University — Zhichen Liu and the lab’s Ph.D. students."
 ---
 
 <div class="page-section">
