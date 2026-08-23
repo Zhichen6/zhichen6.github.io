@@ -23,33 +23,23 @@ excerpt: "The people behind the AI Mobility Lab at Stony Brook University."
 
 <div class="page__content" markdown="1">
 
-**Dr. Zhichen Liu** is an Assistant Professor in the Department of Civil Engineering at Stony
-Brook University. She received her Ph.D. in Civil Engineering from the University of Michigan in
-2025, advised by [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/), and has
-published as first author in leading journals including *Transportation Science*.
+**Zhichen Liu** is an Assistant Professor in Civil Engineering at Stony Brook University. Her
+research focuses on innovating next-generation modeling and computational tools for mobility and
+logistics systems, with an emphasis on connectivity, electrification, and automation.
 
-#### Education
+She received her Ph.D. in Civil Engineering and her M.S. in Industrial and Operations Engineering
+from the University of Michigan in 2025 and 2024 respectively, where she was advised by
+[Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/). She earned her B.Eng. in
+Transportation Engineering from Southeast University in 2020 and was a Research Assistant at NYU
+Shanghai before beginning her doctorate. She previously served as a Visiting Scientist at General
+Motors.
 
-- Ph.D., Civil Engineering, University of Michigan (2025)
-- M.S., Industrial and Operations Engineering, University of Michigan (2024)
-- B.Eng., Transportation Engineering, Southeast University, China (2020)
-
-#### Professional Experience
-
-- Assistant Professor, Department of Civil Engineering, Stony Brook University (September 2025 – present)
-- Visiting Scientist, General Motors, Warren, MI (July – November 2023)
-- Research Assistant, NYU Shanghai, Civil Engineering (August 2020 – May 2021)
-
-#### Awards
-
-- Helene M. Overly Memorial Scholarship, WTS International Foundation (2025) — sole global recipient
-- Rackham Predoctoral Fellowship, University of Michigan
-
-#### Editorial Service
-
-Reviewer for *Transportation Science*, *Transportation Research Part B/C/E*, *IEEE Transactions on
-Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Technology*,
-*Transportation Research Record*, and other leading journals in the field.
+Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global
+awardee of the prestigious **Helene M. Overly Memorial Scholarship (2025)** by the WTS
+International Foundation for her contributions to research and community service. She serves as a
+reviewer for *Transportation Science*, *Transportation Research Part B/C/E*, *IEEE Transactions on
+Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Technology*, and
+*Transportation Research Record*.
 
 </div>
 
