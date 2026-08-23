@@ -107,3 +107,47 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.team-member {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1.5em 0;
+
+    .team-member__photo {
+        flex: 0 0 auto;
+        width: 150px;
+        height: 150px;
+        margin-bottom: 1.25em;
+        border-radius: 50%;
+        object-fit: cover;
+        background-color: $background-color;
+    }
+
+    .team-member__info {
+        min-width: 0;
+
+        h3 {
+            margin-top: 0;
+            margin-bottom: 0.25em;
+        }
+
+        p:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    @include breakpoint($medium) {
+        flex-direction: row;
+        align-items: flex-start;
+        text-align: left;
+
+        .team-member__photo {
+            width: 180px;
+            height: 180px;
+            margin-bottom: 0;
+            margin-right: 2em;
+        }
+    }
+}

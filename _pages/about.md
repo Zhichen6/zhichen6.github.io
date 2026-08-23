@@ -113,19 +113,23 @@ Dr. Liu has published as first author in leading journals including *Transportat
 
 ## 🌟 Ph.D. Students
 
-### Zhanyu Feng
-
-![Zhanyu Feng](/images/zhanyu.png)
-
-Zhanyu Feng received his B.S. degree in Traffic and Transportation from Hefei University of Technology in 2022, and his M.S. degree in Communication and Transportation from Southeast University. Prior to joining the SBU Mobility Lab, he served as a Research Assistant at NYU Shanghai. His research focuses on decision-focused learning, transportation network modeling, and optimization and control for connected and autonomous electric vehicles.
+<div class="team-member">
+  <img class="team-member__photo" src="/images/zhanyu.png" alt="Zhanyu Feng">
+  <div class="team-member__info">
+    <h3 id="zhanyu-feng">Zhanyu Feng</h3>
+    <p>Zhanyu Feng received his B.S. degree in Traffic and Transportation from Hefei University of Technology in 2022, and his M.S. degree in Communication and Transportation from Southeast University. Prior to joining the SBU Mobility Lab, he served as a Research Assistant at NYU Shanghai. His research focuses on decision-focused learning, transportation network modeling, and optimization and control for connected and autonomous electric vehicles.</p>
+  </div>
+</div>
 
 ---
 
-### Rui Chen
-
-![Rui Chen](/images/rui.png)
-
-Rui Chen received her Master's degree in Logistics Engineering and Management from Tsinghua University in 2023, and her Bachelor's degree from Central South University. She joined the lab as a Ph.D. student in Fall 2026. Previously, she worked as an algorithm engineer focusing on dispatch and optimization for shared bicycle systems. Her research interests include operations research, reinforcement learning, and intelligent transportation systems.
+<div class="team-member">
+  <img class="team-member__photo" src="/images/rui.png" alt="Rui Chen">
+  <div class="team-member__info">
+    <h3 id="rui-chen">Rui Chen</h3>
+    <p>Rui Chen received her Master's degree in Logistics Engineering and Management from Tsinghua University in 2023, and her Bachelor's degree from Central South University. She joined the lab as a Ph.D. student in Fall 2026. Previously, she worked as an algorithm engineer focusing on dispatch and optimization for shared bicycle systems. Her research interests include operations research, reinforcement learning, and intelligent transportation systems.</p>
+  </div>
+</div>
 
 
 ---
