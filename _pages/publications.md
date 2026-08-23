@@ -16,8 +16,7 @@ excerpt: "Peer-reviewed papers and working papers from the SBU AI Mobility Lab."
   <div class="paper-box-text">
     <div class="badge">Transportation Research Part B 2026</div>
     <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0191261526000755" target="_blank" rel="noopener">Large-scale inverse learning of user equilibrium via multiconvex optimization</a>
-    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, Xi Lin, Zhen Wang, <em>Transportation Research Part B: Methodological</em>, 209, 103463, 2026</p>
-    <p class="paper-meta">Cited by 2</p>
+    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, Xi Lin, Zhen Wang, <em>Transportation Research Part B: Methodological</em>, 2026</p>
   </div>
 </div>
 
@@ -26,8 +25,7 @@ excerpt: "Peer-reviewed papers and working papers from the SBU AI Mobility Lab."
   <div class="paper-box-text">
     <div class="badge">Working Paper 2025</div>
     <a class="paper-title" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5995274" target="_blank" rel="noopener">Constructing transportation network equilibrium models from empirical data: An inverse learning perspective</a>
-    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, <em>Available at SSRN 5995274</em></p>
-    <p class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5995274" target="_blank" rel="noopener">SSRN</a></p>
+    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, <em>SSRN Working Paper 5995274</em>, 2025</p>
   </div>
 </div>
 

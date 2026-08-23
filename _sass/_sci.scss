@@ -637,16 +637,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.paper-meta {
-  display: block;
-  margin-top: 0.55em;
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: $sci-muted;
-}
-
 /* Stand-in used when a paper figure is not available yet. Deliberately
    typographic so it reads as a design element, not a broken image. */
 .paper-box-image--placeholder {
