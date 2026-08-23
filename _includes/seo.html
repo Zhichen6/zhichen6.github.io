@@ -1,75 +1,110 @@
 <!-- begin SEO -->
-{% if site.url %}
-  {% assign seo_url = site.url %}
-{% endif %}
-{% assign seo_url = seo_url | default: site.github.url %}
+{%- assign seo_url = site.url | append: site.baseurl -%}
+{%- assign canonical_url = page.url | replace: 'index.html', '' | prepend: seo_url -%}
 
-{% if site.url %}
-  {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
-{% endif %}
+{%- comment -%} Per-page title. Previously every page emitted the same string. {%- endcomment -%}
+{%- if page.url == '/' -%}
+  {%- assign seo_title = site.title | append: ' | ' | append: site.lab_name | append: ', ' | append: site.institution -%}
+{%- else -%}
+  {%- assign seo_title = page.title | append: ' | ' | append: site.title | append: ', ' | append: site.lab_short | append: ' at Stony Brook' -%}
+{%- endif -%}
 
-<title>{{ site.title }} - Homepage</title>
+{%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
+{%- assign seo_description = seo_description | markdownify | strip_html | strip_newlines | strip | escape_once -%}
 
-{% assign seo_description = page.description | default: page.excerpt | default: site.description %}
-{% if seo_description %}
-  {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
-{% endif %}
+{%- assign seo_image = page.og_image | default: '/images/hero.jpg' | prepend: seo_url -%}
 
-{% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
-{% if seo_author %}
-  {% if seo_author.twitter %}
-    {% assign seo_author_twitter = seo_author.twitter %}
-  {% else %}
-    {% if site.data.authors and site.data.authors[seo_author] %}
-      {% assign seo_author_twitter = site.data.authors[seo_author].twitter  %}
-    {% else %}
-      {% assign seo_author_twitter = seo_author  %}
-    {% endif %}
-  {% endif %}
-  {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
-{% endif %}
+<title>{{ seo_title | escape_once }}</title>
+<meta name="description" content="{{ seo_description }}">
+<link rel="canonical" href="{{ canonical_url }}">
 
-<meta property="og:locale" content="en">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="{{ site.title }} | {{ site.lab_short }}">
+<meta property="og:title" content="{{ seo_title | escape_once }}">
+<meta property="og:description" content="{{ seo_description }}">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:image" content="{{ seo_image }}">
 
-{% if seo_url %}
-  <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
-  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
-{% endif %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ seo_title | escape_once }}">
+<meta name="twitter:description" content="{{ seo_description }}">
+<meta name="twitter:image" content="{{ seo_image }}">
+{%- if site.twitter.username %}
+<meta name="twitter:site" content="@{{ site.twitter.username | replace: '@', '' }}">
+{%- endif %}
 
-{% if page.excerpt %}
-  <meta property="og:description" content="{{ seo_description }}">
-{% endif %}
+{%- comment -%}
+  Structured data. Every value below already appears on the site; nothing is
+  asserted here that a reader cannot verify on the page.
+{%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "{{ seo_url }}/#person",
+      "name": "{{ site.title }}",
+      "jobTitle": "Assistant Professor",
+      "email": "mailto:{{ site.author.email }}",
+      "url": "{{ seo_url }}/",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "{{ site.institution }}",
+        "department": "Department of Civil Engineering"
+      },
+      "alumniOf": [
+        { "@type": "CollegeOrUniversity", "name": "University of Michigan" },
+        { "@type": "CollegeOrUniversity", "name": "Southeast University" }
+      ],
+      "knowsAbout": [
+        "Transportation network equilibrium",
+        "Inverse learning",
+        "Optimization",
+        "Machine learning for mobility systems",
+        "Connected and autonomous vehicles",
+        "Electrification of transportation"
+      ],
+      "sameAs": [
+        {%- assign profiles = '' -%}
+        {%- if site.author.googlescholar -%}{%- assign profiles = profiles | append: site.author.googlescholar | append: '|' -%}{%- endif -%}
+        {%- if site.author.linkedin -%}{%- assign profiles = profiles | append: 'https://www.linkedin.com/in/' | append: site.author.linkedin | append: '|' -%}{%- endif -%}
+        {%- assign profile_list = profiles | split: '|' -%}
+        {%- for u in profile_list %}"{{ u }}"{% unless forloop.last %}, {% endunless %}{% endfor %}
+      ]
+    },
+    {
+      "@type": "ResearchOrganization",
+      "@id": "{{ seo_url }}/#lab",
+      "name": "{{ site.lab_name }}",
+      "alternateName": "{{ site.lab_short }} at Stony Brook",
+      "url": "{{ seo_url }}/",
+      "logo": "{{ seo_url }}/images/logo.png",
+      "parentOrganization": {
+        "@type": "CollegeOrUniversity",
+        "name": "{{ site.institution }}"
+      },
+      "member": { "@id": "{{ seo_url }}/#person" }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ seo_url }}/#website",
+      "url": "{{ seo_url }}/",
+      "name": "{{ site.lab_name }}",
+      "publisher": { "@id": "{{ seo_url }}/#person" }
+    }
+  ]
+}
+</script>
 
-{% if site.twitter.username %}
-  <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
-  <meta name="twitter:description" content="{{ seo_description }}">
-  <meta name="twitter:url" content="{{ canonical_url }}">
-
-  {% if seo_author_twitter %}
-    <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
-  {% endif %}
-{% endif %}
-
-{% if site.facebook %}
-  {% if site.facebook.publisher %}
-    <meta property="article:publisher" content="{{ site.facebook.publisher }}">
-  {% endif %}
-
-  {% if site.facebook.app_id %}
-    <meta property="fb:app_id" content="{{ site.facebook.app_id }}">
-  {% endif %}
-{% endif %}
-
-{% if site.google_site_verification %}
-  <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
-{% endif %}
-{% if site.bing_site_verification %}
-  <meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
-{% endif %}
-{% if site.baidu_site_verification %}
-  <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
-{% endif %}
+{%- if site.google_site_verification %}
+<meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+{%- endif %}
+{%- if site.bing_site_verification %}
+<meta name="msvalidate.01" content="{{ site.bing_site_verification }}">
+{%- endif %}
+{%- if site.baidu_site_verification %}
+<meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
+{%- endif %}
 <!-- end SEO -->
