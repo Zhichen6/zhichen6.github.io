@@ -29,28 +29,19 @@ We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as w
 <h2 class="page-title">News</h2>
 
 {%- comment -%}
-  Items from the last 18 months are shown; anything older collapses into the
-  "Earlier news" disclosure. 18 months = 47,347,200 seconds. The window is
-  evaluated against site.time, so it advances on each rebuild.
+  The six most recent entries are shown; everything older collapses into the
+  "Earlier news" disclosure, which only renders when it has something in it.
 {%- endcomment -%}
-{%- assign cutoff = site.time | date: '%s' | plus: 0 | minus: 47347200 -%}
+{%- assign shown = 6 -%}
 {%- assign news = site.data.news | sort: 'date' | reverse -%}
-
-{%- assign archived_count = 0 -%}
-{%- for item in news -%}
-  {%- assign ts = item.date | date: '%s' | plus: 0 -%}
-  {%- if ts < cutoff -%}{%- assign archived_count = archived_count | plus: 1 -%}{%- endif -%}
-{%- endfor -%}
+{%- assign archived_count = news.size | minus: shown -%}
 
 <ul class="news-list">
-{%- for item in news -%}
-  {%- assign ts = item.date | date: '%s' | plus: 0 -%}
-  {%- if ts >= cutoff %}
+{%- for item in news limit: shown %}
   <li>
     <span class="news-date">{{ item.date | date: '%Y.%m.%d' }}</span>
     {{ item.body }}
   </li>
-  {%- endif -%}
 {%- endfor %}
 </ul>
 
@@ -58,14 +49,11 @@ We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as w
 <details class="news-archive">
   <summary><span>Earlier news</span><span class="news-archive__count">{{ archived_count }}</span></summary>
   <ul class="news-list">
-  {%- for item in news -%}
-    {%- assign ts = item.date | date: '%s' | plus: 0 -%}
-    {%- if ts < cutoff %}
+  {%- for item in news offset: shown %}
     <li>
       <span class="news-date">{{ item.date | date: '%Y.%m.%d' }}</span>
       {{ item.body }}
     </li>
-    {%- endif -%}
   {%- endfor %}
   </ul>
 </details>
