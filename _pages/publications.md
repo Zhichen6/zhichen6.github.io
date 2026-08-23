@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-hero_title: "Publications"
+hero_title: "Selected Publications"
 hero_image: "/images/hero.jpg"
 excerpt: "Peer-reviewed papers and working papers from the SBU AI Mobility Lab."
 ---
@@ -9,10 +9,10 @@ excerpt: "Peer-reviewed papers and working papers from the SBU AI Mobility Lab."
 <div class="page-section">
 <div class="wrap">
 
-<p class="section-lede">Peer-reviewed papers and working papers. A complete and current list is available on <a href="https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.</p>
+<p class="section-lede">A selection of peer-reviewed papers and working papers. For the full list, please see my <a href="https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> page.</p>
 
 <div class="paper-box">
-  <div class="paper-box-image paper-box-image--placeholder"><span>Transportation Research<br>Part B &middot; 2026</span></div>
+  <div class="paper-box-image"><img src="/images/trb_2026.png" alt="Forward problem and inverse learning between a context-dependent network equilibrium model and multiday observed noisy link flows" onerror="this.parentNode.className='paper-box-image paper-box-image--placeholder';this.outerHTML='&lt;span&gt;Transportation Research&lt;br&gt;Part B &amp;middot; 2026&lt;/span&gt;'"></div>
   <div class="paper-box-text">
     <div class="badge">Transportation Research Part B 2026</div>
     <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0191261526000755" target="_blank" rel="noopener">Large-scale inverse learning of user equilibrium via multiconvex optimization</a>
@@ -22,7 +22,7 @@ excerpt: "Peer-reviewed papers and working papers from the SBU AI Mobility Lab."
 </div>
 
 <div class="paper-box">
-  <div class="paper-box-image paper-box-image--placeholder"><span>Working paper<br>SSRN &middot; 2025</span></div>
+  <div class="paper-box-image"><img src="/images/ssrn_2025.png" alt="Forward problem and its primal and dual inverse problem formulations" onerror="this.parentNode.className='paper-box-image paper-box-image--placeholder';this.outerHTML='&lt;span&gt;Working paper&lt;br&gt;SSRN &amp;middot; 2025&lt;/span&gt;'"></div>
   <div class="paper-box-text">
     <div class="badge">Working Paper 2025</div>
     <a class="paper-title" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5995274" target="_blank" rel="noopener">Constructing transportation network equilibrium models from empirical data: An inverse learning perspective</a>

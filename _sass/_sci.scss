@@ -430,6 +430,84 @@ h1, h2, h3, h4, h5, h6 {
   color: $sci-muted;
 }
 
+/* --------------------------------------------------- research directions */
+
+.direction {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6em;
+  padding: 3em 0;
+  border-bottom: 1px solid $sci-rule;
+
+  &:last-of-type { border-bottom: 0; }
+}
+
+.direction__media {
+  flex: 0 0 auto;
+  width: 100%;
+  overflow: hidden;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    filter: saturate(0.8);
+    transition: filter 0.3s ease;
+  }
+
+  &:hover img { filter: saturate(1); }
+}
+
+.direction__text {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  h2 {
+    margin: 0.25em 0 0.55em;
+    font-family: $serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.28;
+    color: $sci-heading;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  p {
+    margin: 0;
+    font-size: 16.5px;
+    line-height: 1.72;
+  }
+}
+
+.direction__num {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: $sci-accent;
+}
+
+@include breakpoint($medium) {
+  .direction {
+    flex-direction: row;
+    align-items: center;
+    gap: 2.75em;
+  }
+
+  .direction--reverse { flex-direction: row-reverse; }
+
+  .direction__media {
+    width: 400px;
+    flex: 0 0 400px;
+
+    img { max-height: 265px; }
+  }
+}
+
 /* ------------------------------------------------------------- team grid */
 
 .member-list {
