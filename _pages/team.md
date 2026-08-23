@@ -33,7 +33,7 @@ Transportation Engineering from Southeast University in 2020. She previously ser
 Scientist at General Motors.
 
 Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global
-awardee of the prestigious **Helene M. Overly Memorial Scholarship (2025)** by the WTS
+awardee of the prestigious Helene M. Overly Memorial Scholarship (2025) by the WTS
 International Foundation. She serves as the area editor of *Networks and Spatial Economics*.
 
 </div>
