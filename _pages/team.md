@@ -28,8 +28,7 @@ research focuses on innovating next-generation modeling and computational tools 
 logistics systems, with an emphasis on connectivity, electrification, and automation.
 
 She received her Ph.D. in Civil Engineering and her M.S. in Industrial and Operations Engineering
-from the University of Michigan in 2025 and 2024 respectively, where she was advised by
-[Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/). She earned her B.Eng. in
+from the University of Michigan in 2025 and 2024 respectively. She earned her B.Eng. in
 Transportation Engineering from Southeast University in 2020 and was a Research Assistant at NYU
 Shanghai before beginning her doctorate. She previously served as a Visiting Scientist at General
 Motors.
