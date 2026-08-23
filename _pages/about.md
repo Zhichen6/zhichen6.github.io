@@ -28,22 +28,48 @@ We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as w
 <div class="wrap">
 <h2 class="page-title">News</h2>
 
+{%- comment -%}
+  Items from the last 18 months are shown; anything older collapses into the
+  "Earlier news" disclosure. 18 months = 47,347,200 seconds. The window is
+  evaluated against site.time, so it advances on each rebuild.
+{%- endcomment -%}
+{%- assign cutoff = site.time | date: '%s' | plus: 0 | minus: 47347200 -%}
+{%- assign news = site.data.news | sort: 'date' | reverse -%}
+
+{%- assign archived_count = 0 -%}
+{%- for item in news -%}
+  {%- assign ts = item.date | date: '%s' | plus: 0 -%}
+  {%- if ts < cutoff -%}{%- assign archived_count = archived_count | plus: 1 -%}{%- endif -%}
+{%- endfor -%}
+
 <ul class="news-list">
-  <li markdown="1">
-  <span class="news-date">2026.05.20</span>
-  Excited to share that our latest paper, [Large-scale inverse learning of user equilibrium via multiconvex optimization](https://www.sciencedirect.com/science/article/pii/S0191261526000755), is now published in **Transportation Research Part B**!
+{%- for item in news -%}
+  {%- assign ts = item.date | date: '%s' | plus: 0 -%}
+  {%- if ts >= cutoff %}
+  <li>
+    <span class="news-date">{{ item.date | date: '%Y.%m.%d' }}</span>
+    {{ item.body }}
   </li>
-
-  <li markdown="1">
-  <span class="news-date">2025.07.26</span>
-  Excited to share that our latest paper, [End-to-End Learning of User Equilibrium: Expressivity, Generalization, and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489), co-authored with Dr. Yafeng Yin, is now published in **Transportation Science**!
-  </li>
-
-  <li markdown="1">
-  <span class="news-date">2025.03.11</span>
-  Dr. Zhichen Liu was honored as the **sole global recipient** of the prestigious 2025 **Helene M. Overly Memorial Scholarship** ($10,000) from the WTS International Foundation.
-  </li>
+  {%- endif -%}
+{%- endfor %}
 </ul>
+
+{%- if archived_count > 0 %}
+<details class="news-archive">
+  <summary><span>Earlier news</span><span class="news-archive__count">{{ archived_count }}</span></summary>
+  <ul class="news-list">
+  {%- for item in news -%}
+    {%- assign ts = item.date | date: '%s' | plus: 0 -%}
+    {%- if ts < cutoff %}
+    <li>
+      <span class="news-date">{{ item.date | date: '%Y.%m.%d' }}</span>
+      {{ item.body }}
+    </li>
+    {%- endif -%}
+  {%- endfor %}
+  </ul>
+</details>
+{%- endif %}
 
 </div>
 </div>
