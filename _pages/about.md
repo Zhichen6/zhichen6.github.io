@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-SBU Mobility Lab brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
+SBU AI Mobility Lab brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](#-research) for details. 
 
-📢 We are recruiting **2-3 fully funded PhD students** beginning Spring/Fall 2026, as well as motivated MS and BS students. See [Opening](#-opening) for details.
+📢 We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as well as motivated MS and BS students. See [Opening](#-opening) for details.
 
 ---
 
@@ -111,9 +111,21 @@ Dr. Liu has published as first author in leading journals including *Transportat
 
 ---
 
-## 🌟 Current Members
+## 🌟 Ph.D. Students
 
-We are currently recruiting Ph.D. students and host project-based students at all levels. Profiles will be added as the group grows. See [Opening](#-opening) for details.
+### Zhanyu Feng
+
+![Zhanyu Feng](/images/zhanyu.png)
+
+Zhanyu Feng received his B.S. degree in Traffic and Transportation from Hefei University of Technology in 2022, and his M.S. degree in Communication and Transportation from Southeast University. Prior to joining the SBU Mobility Lab, he served as a Research Assistant at NYU Shanghai. His research focuses on decision-focused learning, transportation network modeling, and optimization and control for connected and autonomous electric vehicles.
+
+---
+
+### Rui Chen
+
+![Rui Chen](/images/rui.png)
+
+Rui Chen received her Master's degree in Logistics Engineering and Management from Tsinghua University in 2023, and her Bachelor's degree from Central South University. She joined the lab as a Ph.D. student in Fall 2026. Previously, she worked as an algorithm engineer focusing on dispatch and optimization for shared bicycle systems. Her research interests include operations research, reinforcement learning, and intelligent transportation systems.
 
 
 ---
@@ -124,7 +136,7 @@ We are currently recruiting Ph.D. students and host project-based students at al
 
 Stony Brook University is a flagship R1 institution in the State University of New York (SUNY) system, located near New York City. It is home to a distinguished faculty that includes four Nobel Prize winners. We are building a collaborative and interdisciplinary research lab and are actively looking for motivated students to join us.
 
-## 🌟 2-3 Ph.D. Students for Spring or Fall 2026, 4–5 years of funding (includes a very competitive stipend and full tuition waiver)
+## 🌟 Fully funded Ph.D. Students for Spring or Fall 2027 (includes a very competitive stipend and full tuition waiver)
 
 ### *Qualifications*
 
