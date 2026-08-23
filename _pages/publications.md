@@ -12,7 +12,7 @@ excerpt: "Peer-reviewed papers and working papers from the SBU AI Mobility Lab."
 <p class="section-lede">A selection of peer-reviewed papers and working papers. For the full list, please see my <a href="https://scholar.google.com/citations?user=RoB_K0YAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> page.</p>
 
 <div class="paper-box">
-  <div class="paper-box-image"><img src="/images/trb_2026.png" alt="Forward problem and inverse learning between a context-dependent network equilibrium model and multiday observed noisy link flows" onerror="this.parentNode.className='paper-box-image paper-box-image--placeholder';this.outerHTML='&lt;span&gt;Transportation Research&lt;br&gt;Part B &amp;middot; 2026&lt;/span&gt;'"></div>
+  <div class="paper-box-image"><img src="/images/trb_2026.jpg" alt="Forward problem and inverse learning between a context-dependent network equilibrium model and multiday observed noisy link flows" onerror="this.parentNode.className='paper-box-image paper-box-image--placeholder';this.outerHTML='&lt;span&gt;Transportation Research&lt;br&gt;Part B &amp;middot; 2026&lt;/span&gt;'"></div>
   <div class="paper-box-text">
     <div class="badge">Transportation Research Part B 2026</div>
     <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0191261526000755" target="_blank" rel="noopener">Large-scale inverse learning of user equilibrium via multiconvex optimization</a>
