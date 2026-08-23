@@ -1,13 +1,16 @@
 main:
 
   - title: "Research"
-    url: "/#-research"
+    url: "/research/"
+
+  - title: "Publications"
+    url: "/publications/"
 
   - title: "Team"
-    url: "/#-team"
-    
+    url: "/team/"
+
   - title: "Opening"
-    url: "/#-opening"
+    url: "/opening/"
 
   - title: "Connect"
-    url: "/#-connect"
+    url: "/connect/"

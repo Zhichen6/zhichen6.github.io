@@ -1,0 +1,587 @@
+/* ==========================================================================
+   SCI — editorial layout adapted from computationalimaging.org
+   Accent colour swapped to Stony Brook red. All tokens in _variables.scss.
+   ========================================================================== */
+
+/* --------------------------------------------------------------- wrappers */
+
+.wrap {
+  max-width: $sci-wrap;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.wrap-max {
+  max-width: $sci-wrap-max;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+/* --------------------------------- neutralise the old sidebar grid geometry */
+/* _page.scss lays #main out as a susy container and .page as span(10 of 12)
+   offset by a 2-column prefix — that was the left-sidebar layout. The sidebar
+   is gone, so reset the geometry and let .wrap do the centring. */
+
+#main {
+  max-width: none;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  float: none;
+  animation: none;
+}
+
+.page {
+  float: none;
+  width: auto;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+
+  .page__inner-wrap,
+  .page__content,
+  .page__meta,
+  .page__share {
+    float: none;
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* ------------------------------------------------------------ base typography */
+
+body {
+  font-family: $sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.75;
+  color: $sci-body;
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+strong, b { color: $sci-ink; font-weight: 600; }
+
+a {
+  color: $sci-accent;
+  text-decoration: none;
+  border-bottom: 1px solid rgba($sci-accent, 0.28);
+  transition: border-color 0.15s ease, color 0.15s ease;
+
+  &:hover, &:focus {
+    color: $sci-accent-dark;
+    border-bottom-color: $sci-accent-dark;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $serif;
+  color: $sci-heading;
+  line-height: 1.3;
+}
+
+/* ------------------------------------------------------------- site header */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #fff;
+  border-bottom: 1px solid $sci-rule;
+}
+
+.site-header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 82px;
+  gap: 1.5em;
+}
+
+.site-header__brand {
+  font-family: $serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: $sci-ink;
+  border-bottom: 0;
+  letter-spacing: 0.01em;
+
+  &:hover { color: $sci-accent; }
+
+  span {
+    display: block;
+    font-family: $sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: $sci-body;
+    margin-top: 2px;
+  }
+}
+
+.site-nav ul {
+  display: flex;
+  align-items: center;
+  gap: 2.2em;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.site-nav a {
+  display: block;
+  padding: 6px 0;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $sci-body;
+  border-bottom: 2px solid transparent;
+
+  &:hover { color: $sci-ink; }
+}
+
+.site-nav a.is-active {
+  color: $sci-ink;
+  border-bottom-color: $sci-accent;
+}
+
+.site-nav__toggle {
+  display: none;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  background: none;
+  border: 0;
+  cursor: pointer;
+
+  span, span:before, span:after {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: $sci-ink;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
+  span {
+    position: relative;
+    margin: 0 auto;
+    &:before, &:after { content: ''; position: absolute; left: 0; }
+    &:before { top: -7px; }
+    &:after  { top: 7px; }
+  }
+}
+
+.site-nav.is-open .site-nav__toggle span {
+  background: transparent;
+  &:before { transform: translateY(7px) rotate(45deg); }
+  &:after  { transform: translateY(-7px) rotate(-45deg); }
+}
+
+@media (max-width: 860px) {
+  .site-header__inner { min-height: 64px; }
+
+  .site-nav__toggle { display: block; }
+
+  .site-nav ul {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 8px 24px 20px;
+    background: #fff;
+    border-bottom: 1px solid $sci-rule;
+  }
+
+  .site-nav.is-open ul { display: flex; }
+
+  .site-nav a {
+    padding: 12px 0;
+    border-bottom: 1px solid $sci-rule;
+    &.is-active { border-bottom-color: $sci-accent; }
+  }
+}
+
+/* --------------------------------------------------------------------- hero */
+
+.hero {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 440px;
+  padding: 4em 0;
+  background: linear-gradient(135deg, $sci-ink 0%, #4a4740 55%, $sci-heading 100%);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+.hero--image:after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(#1a1917, 0.52);
+}
+
+.hero__inner {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+}
+
+.hero__title {
+  margin: 0;
+  font-family: $serif;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.hero__tagline {
+  max-width: 620px;
+  margin: 1em 0 0;
+  font-size: 17px;
+  line-height: 1.7;
+  color: rgba(#fff, 0.88);
+}
+
+@media (max-width: 700px) {
+  .hero { min-height: 320px; }
+  .hero__title { font-size: 30px; }
+}
+
+/* ------------------------------------------------------------------ buttons */
+
+.btn-outline {
+  display: inline-block;
+  margin-top: 1.75em;
+  padding: 0 2em;
+  height: 46px;
+  line-height: 44px;
+  font-family: $sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $sci-accent;
+  background: none;
+  border: 1px solid $sci-accent;
+
+  &:hover, &:focus {
+    color: #fff;
+    background: $sci-accent;
+    border-color: $sci-accent;
+  }
+}
+
+.hero .btn-outline {
+  color: #fff;
+  border-color: rgba(#fff, 0.75);
+
+  &:hover, &:focus {
+    color: $sci-ink;
+    background: #fff;
+    border-color: #fff;
+  }
+}
+
+/* ----------------------------------------------------------- page structure */
+
+.page-section { padding: 4.5em 0; }
+
+.page-section--band {
+  background: $sci-band;
+  border-top: 1px solid $sci-rule;
+  border-bottom: 1px solid $sci-rule;
+}
+
+.page-title {
+  margin: 0 0 1.25em;
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-align: center;
+  color: $sci-heading;
+
+  &:after {
+    content: '';
+    display: block;
+    width: 54px;
+    height: 1px;
+    margin: 0.6em auto 0;
+    background: $sci-body;
+  }
+}
+
+.section-lede {
+  max-width: 720px;
+  margin: 0 auto 3em;
+  text-align: center;
+  font-size: 17px;
+}
+
+/* content headings inside markdown */
+.page__content {
+  h2 {
+    margin: 2em 0 0.6em;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    margin: 2em 0 0.5em;
+    font-size: 19px;
+    font-weight: 700;
+    color: $sci-heading;
+  }
+
+  h4 {
+    margin: 1.6em 0 0.4em;
+    font-size: 16px;
+    font-weight: 700;
+  }
+
+  p, li { font-size: 16px; }
+
+  hr {
+    height: 1px;
+    margin: 3em 0;
+    border: 0;
+    background: $sci-rule;
+  }
+
+  img { max-width: 100%; height: auto; }
+}
+
+/* ------------------------------------------------------------------- news */
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.news-list li {
+  padding: 1.4em 0;
+  border-bottom: 1px solid $sci-rule;
+
+  &:last-child { border-bottom: 0; }
+}
+
+.news-list .news-date {
+  display: block;
+  margin-bottom: 0.35em;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $sci-body;
+}
+
+/* ------------------------------------------------------------- team grid */
+
+.member-list {
+  display: grid;
+  /* auto-fit: a lone member centres in one full-width track, two members take
+     half each, three or more settle into the 3-across Stanford grid. */
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2.5em 2em;
+  margin: 0 0 3em;
+  padding: 0;
+  list-style: none;
+}
+
+.member-box { text-align: center; }
+
+.member-box__photo {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  aspect-ratio: 1 / 1;
+  margin: 0 auto 1.1em;
+  object-fit: cover;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.member-box__name {
+  display: block;
+  font-family: $sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $sci-heading;
+  border-bottom: 0;
+}
+
+.member-box__role {
+  display: block;
+  margin-top: 0.3em;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $sci-body;
+}
+
+.member-box__bio {
+  margin: 0.9em auto 0;
+  font-size: 14.5px;
+  line-height: 1.7;
+  text-align: left;
+}
+
+@media (max-width: 560px) {
+  .member-list { grid-template-columns: 1fr; }
+  .member-box__photo { max-width: 190px; }
+}
+
+/* --------------------------------------------------------- publication list */
+
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 1.5em;
+  padding: 2.25em 0;
+  border-bottom: 1px solid $sci-rule;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+
+  &:last-child { border-bottom: 0; }
+
+  .paper-box-image {
+    display: block;
+    width: 100%;
+    order: 1;
+    justify-content: flex-start;
+    position: relative;
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      box-shadow: none;
+      border: 1px solid $sci-rule;
+      object-fit: cover;
+    }
+  }
+
+  .paper-box-text {
+    width: 100%;
+    max-width: 100%;
+    order: 2;
+
+    a { font-family: $serif; }
+
+    p:first-of-type a {
+      font-size: 21px;
+      font-weight: 700;
+      line-height: 1.35;
+      color: $sci-heading;
+      border-bottom: 0;
+
+      &:hover { color: $sci-accent; }
+    }
+
+    p { margin: 0 0 0.55em; font-size: 15px; }
+    p:last-child { margin-bottom: 0; }
+  }
+}
+
+@include breakpoint($medium) {
+  .paper-box {
+    flex-direction: row;
+    gap: 2.25em;
+
+    .paper-box-image {
+      flex: 0 0 320px;
+      width: 320px;
+      max-width: 320px;
+      padding-left: 0;
+    }
+
+    .paper-box-text {
+      flex: 1 1 auto;
+      width: auto;
+      max-width: none;
+      padding-left: 0;
+    }
+  }
+}
+
+.badge {
+  position: static;
+  display: inline-block;
+  margin: 0 0 0.6em;
+  padding: 0.25em 0.85em;
+  font-family: $sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: $sci-heading;
+}
+
+/* ------------------------------------------------------------------ footer */
+
+.site-footer {
+  padding: 3.5em 0 3em;
+  background: $sci-band;
+  border-top: 1px solid $sci-rule;
+  font-size: 14.5px;
+}
+
+.site-footer__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2.5em;
+}
+
+.site-footer h2 {
+  margin: 0 0 0.9em;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $sci-heading;
+}
+
+.site-footer ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li { margin-bottom: 0.45em; }
+}
+
+.site-footer__colophon {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid $sci-rule;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: $sci-body;
+}

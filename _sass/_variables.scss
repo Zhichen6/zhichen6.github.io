@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$serif                      : "Quattrocento", Georgia, Times, serif;
+$sans-serif                 : "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -32,7 +32,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -49,6 +49,18 @@ $type-size-8                : 0.625em;  // ~10px
 /*
    Colors
    ========================================================================== */
+
+/* SCI palette — adapted from computationalimaging.org, accent swapped to Stony Brook red */
+$sci-accent                 : #990000; // links, buttons, active nav
+$sci-accent-dark            : #7a0000;
+$sci-heading                : #565347; // headings, member names
+$sci-body                   : #8A887D; // body copy, roles, captions
+$sci-band                   : #F8F6F4; // alternating section bands
+$sci-rule                   : #E3E7EA; // hairline dividers
+$sci-ink                    : #2E2D29; // strong text
+
+$sci-wrap                   : 960px;   // content column
+$sci-wrap-max               : 1300px;  // header / footer column
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);

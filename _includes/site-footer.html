@@ -1,0 +1,37 @@
+<footer class="site-footer">
+  <div class="wrap-max">
+    <div class="site-footer__grid">
+      <div>
+        <h2>Address</h2>
+        <p>Department of Civil Engineering<br>
+        Stony Brook University<br>
+        Stony Brook, NY 11794</p>
+      </div>
+
+      <div>
+        <h2>Contact</h2>
+        <ul>
+          {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>{% endif %}
+        </ul>
+      </div>
+
+      <div>
+        <h2>Elsewhere</h2>
+        <ul>
+          {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a></li>{% endif %}
+          {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>{% endif %}
+        </ul>
+      </div>
+
+      <div>
+        <h2>Join us</h2>
+        <ul>
+          <li><a href="{{ '/opening/' | relative_url }}">Open positions</a></li>
+          <li><a href="{{ '/connect/' | relative_url }}">Collaborate</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <p class="site-footer__colophon">&copy; {{ site.time | date: '%Y' }} {{ site.title }} &middot; SBU AI Mobility Lab</p>
+  </div>
+</footer>

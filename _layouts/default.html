@@ -12,22 +12,31 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include site-header.html %}
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
+    {% unless page.hide_hero %}{% include page-hero.html %}{% endunless %}
+
+    <main id="main" role="main">
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
+        {{ content }}
       </article>
-    </div>
+    </main>
 
+    {% include site-footer.html %}
     {% include scripts.html %}
+
+    <script>
+      (function () {
+        var nav = document.getElementById('site-nav');
+        if (!nav) return;
+        var btn = nav.querySelector('.site-nav__toggle');
+        btn.addEventListener('click', function () {
+          var open = nav.classList.toggle('is-open');
+          btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+      })();
+    </script>
 
   </body>
 </html>

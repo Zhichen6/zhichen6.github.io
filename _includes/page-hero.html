@@ -1,0 +1,21 @@
+{% comment %}
+  Hero banner. `hero_image` is honoured only when the file actually exists in the
+  repo, so the page falls back to a clean gradient until a photo is dropped in at
+  that path — no front-matter edit needed to switch it on.
+{% endcomment %}
+{% assign hero_src = '' %}
+{% if page.hero_image %}
+  {% for f in site.static_files %}
+    {% if f.path == page.hero_image %}{% assign hero_src = page.hero_image %}{% endif %}
+  {% endfor %}
+{% endif %}
+{% assign hero_title = page.hero_title | default: page.title %}
+
+<section class="hero{% if hero_src != '' %} hero--image{% endif %}"
+         {% if hero_src != '' %}style="background-image: url('{{ hero_src | relative_url }}');"{% endif %}>
+  <div class="wrap hero__inner">
+    <h1 class="hero__title">{{ hero_title }}</h1>
+    {% if page.hero_tagline %}<p class="hero__tagline">{{ page.hero_tagline }}</p>{% endif %}
+    {% if page.hero_cta_url %}<a class="btn-outline" href="{{ page.hero_cta_url | relative_url }}">{{ page.hero_cta_text | default: 'Learn more' }}</a>{% endif %}
+  </div>
+</section>
