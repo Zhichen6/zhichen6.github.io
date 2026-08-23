@@ -29,16 +29,12 @@ logistics systems, with an emphasis on connectivity, electrification, and automa
 
 She received her Ph.D. in Civil Engineering and her M.S. in Industrial and Operations Engineering
 from the University of Michigan in 2025 and 2024 respectively. She earned her B.Eng. in
-Transportation Engineering from Southeast University in 2020 and was a Research Assistant at NYU
-Shanghai before beginning her doctorate. She previously served as a Visiting Scientist at General
-Motors.
+Transportation Engineering from Southeast University in 2020. She previously served as a Visiting
+Scientist at General Motors.
 
 Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global
 awardee of the prestigious **Helene M. Overly Memorial Scholarship (2025)** by the WTS
-International Foundation for her contributions to research and community service. She serves as a
-reviewer for *Transportation Science*, *Transportation Research Part B/C/E*, *IEEE Transactions on
-Intelligent Transportation Systems*, *IEEE Transactions on Control Systems Technology*, and
-*Transportation Research Record*.
+International Foundation. She serves as the area editor of *Networks and Spatial Economics*.
 
 </div>
 
