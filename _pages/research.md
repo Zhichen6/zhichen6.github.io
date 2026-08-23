@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+hero_image: "/images/hero.jpg"
 hero_title: "Research"
 excerpt: "Next-generation modeling and computational tools for mobility and logistics systems."
 ---

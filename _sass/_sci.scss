@@ -43,7 +43,6 @@
   padding: 0;
 
   .page__inner-wrap,
-  .page__content,
   .page__meta,
   .page__share {
     float: none;
@@ -52,16 +51,26 @@
     margin: 0;
     padding: 0;
   }
+
+  /* prose gets a comfortable measure (~72 characters) rather than the full
+     960px column, which runs to ~110 characters and is tiring to read */
+  .page__content {
+    float: none;
+    width: auto;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0;
+  }
 }
 
 /* ------------------------------------------------------------ base typography */
 
 body {
   font-family: $sans-serif;
-  font-weight: 300;
-  font-size: 16px;
+  font-weight: 400;
+  font-size: 17px;
   line-height: 1.75;
-  color: $sci-body;
+  color: $sci-text;
   background-color: #fff;
   -webkit-font-smoothing: antialiased;
 }
@@ -71,12 +80,12 @@ strong, b { color: $sci-ink; font-weight: 600; }
 a {
   color: $sci-accent;
   text-decoration: none;
-  border-bottom: 1px solid rgba($sci-accent, 0.28);
+  border-bottom: 1px solid rgba($sci-accent, 0.22);
   transition: border-color 0.15s ease, color 0.15s ease;
 
   &:hover, &:focus {
     color: $sci-accent-dark;
-    border-bottom-color: $sci-accent-dark;
+    border-bottom-color: rgba($sci-accent-dark, 0.85);
   }
 }
 
@@ -227,11 +236,17 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
 }
 
+/* Directional scrim: heavy on the left where the headline sits, light on the
+   right so the campus sign in the photo stays legible. */
 .hero--image:after {
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(#1a1917, 0.52);
+  background: linear-gradient(100deg,
+    rgba(#141210, 0.80) 0%,
+    rgba(#141210, 0.66) 34%,
+    rgba(#141210, 0.36) 62%,
+    rgba(#141210, 0.24) 100%);
 }
 
 .hero__inner {
@@ -242,26 +257,32 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero__title {
   margin: 0;
+  /* capped so a long lab name wraps in its own column instead of running into
+     the campus sign on the right of the banner photo */
+  max-width: 620px;
   font-family: $serif;
-  font-size: 44px;
+  font-size: 46px;
   font-weight: 700;
-  line-height: 1.15;
-  letter-spacing: 0.04em;
+  line-height: 1.1;
+  letter-spacing: 0.035em;
   text-transform: uppercase;
   color: #fff;
+  text-shadow: 0 1px 24px rgba(0, 0, 0, 0.35);
 }
 
 .hero__tagline {
-  max-width: 620px;
-  margin: 1em 0 0;
-  font-size: 17px;
-  line-height: 1.7;
-  color: rgba(#fff, 0.88);
+  max-width: 560px;
+  margin: 0.9em 0 0;
+  font-size: 18px;
+  line-height: 1.65;
+  color: rgba(#fff, 0.93);
+  text-shadow: 0 1px 16px rgba(0, 0, 0, 0.4);
 }
 
 @media (max-width: 700px) {
-  .hero { min-height: 320px; }
-  .hero__title { font-size: 30px; }
+  .hero { min-height: 330px; }
+  .hero__title { font-size: 32px; }
+  .hero__tagline { font-size: 16px; }
 }
 
 /* ------------------------------------------------------------------ buttons */
@@ -310,8 +331,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .page-title {
-  margin: 0 0 1.25em;
-  font-size: 34px;
+  margin: 0 0 1.15em;
+  font-size: 32px;
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -322,43 +343,52 @@ h1, h2, h3, h4, h5, h6 {
     content: '';
     display: block;
     width: 54px;
-    height: 1px;
-    margin: 0.6em auto 0;
-    background: $sci-body;
+    height: 2px;
+    margin: 0.55em auto 0;
+    background: $sci-accent;
   }
 }
 
 .section-lede {
-  max-width: 720px;
-  margin: 0 auto 3em;
+  max-width: 700px;
+  margin: 0 auto 3.25em;
   text-align: center;
-  font-size: 17px;
+  font-size: 19px;
+  line-height: 1.65;
+  color: $sci-text;
 }
 
 /* content headings inside markdown */
 .page__content {
   h2 {
-    margin: 2em 0 0.6em;
-    font-size: 24px;
+    margin: 2.2em 0 0.5em;
+    font-size: 25px;
     font-weight: 700;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.05em;
     text-transform: uppercase;
+    color: $sci-heading;
   }
 
   h3 {
-    margin: 2em 0 0.5em;
-    font-size: 19px;
+    margin: 2em 0 0.45em;
+    font-size: 21px;
     font-weight: 700;
     color: $sci-heading;
   }
 
   h4 {
-    margin: 1.6em 0 0.4em;
-    font-size: 16px;
+    margin: 1.8em 0 0.4em;
+    font-size: 13px;
     font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: $sci-muted;
   }
 
-  p, li { font-size: 16px; }
+  p, li { font-size: 17px; }
+  li { margin-bottom: 0.4em; }
+  ul, ol { padding-left: 1.15em; }
+  p { margin: 0 0 1.15em; }
 
   hr {
     height: 1px;
@@ -388,14 +418,16 @@ h1, h2, h3, h4, h5, h6 {
   &:last-child { border-bottom: 0; }
 }
 
+.news-list li { font-size: 17px; }
+
 .news-list .news-date {
   display: block;
-  margin-bottom: 0.35em;
+  margin-bottom: 0.3em;
   font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 0.12em;
+  font-weight: 700;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: $sci-body;
+  color: $sci-muted;
 }
 
 /* ------------------------------------------------------------- team grid */
@@ -442,14 +474,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: $sci-body;
+  color: $sci-muted;
 }
 
 .member-box__bio {
   margin: 0.9em auto 0;
-  font-size: 14.5px;
-  line-height: 1.7;
+  font-size: 15.5px;
+  line-height: 1.72;
   text-align: left;
+  color: $sci-text;
 }
 
 @media (max-width: 560px) {
@@ -463,8 +496,8 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  gap: 1.5em;
-  padding: 2.25em 0;
+  gap: 1.4em;
+  padding: 2.4em 0;
   border-bottom: 1px solid $sci-rule;
   justify-content: flex-start;
   flex-wrap: nowrap;
@@ -493,20 +526,76 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 100%;
     order: 2;
 
-    a { font-family: $serif; }
-
-    p:first-of-type a {
-      font-size: 21px;
-      font-weight: 700;
-      line-height: 1.35;
-      color: $sci-heading;
-      border-bottom: 0;
-
-      &:hover { color: $sci-accent; }
-    }
-
-    p { margin: 0 0 0.55em; font-size: 15px; }
+    p { margin: 0 0 0.5em; font-size: 15.5px; color: $sci-text; }
     p:last-child { margin-bottom: 0; }
+  }
+}
+
+/* the paper title: the one thing a reader scans for */
+.paper-title {
+  display: block;
+  margin: 0 0 0.45em;
+  font-family: $serif;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 1.32;
+  color: $sci-heading;
+  border-bottom: 0;
+
+  &:hover, &:focus { color: $sci-accent; border-bottom: 0; }
+}
+
+.paper-authors {
+  font-size: 15.5px;
+  line-height: 1.6;
+
+  strong { color: $sci-ink; }
+  em { color: $sci-muted; }
+}
+
+/* Poster / SSRN / Talks */
+.paper-links {
+  margin-top: 0.75em !important;
+
+  a {
+    display: inline-block;
+    margin-right: 1.1em;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border-bottom-width: 1px;
+  }
+}
+
+.paper-meta {
+  display: block;
+  margin-top: 0.55em;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $sci-muted;
+}
+
+/* Stand-in used when a paper figure is not available yet. Deliberately
+   typographic so it reads as a design element, not a broken image. */
+.paper-box-image--placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 150px;
+  padding: 1.5em 1.25em;
+  text-align: center;
+  background: $sci-band;
+  border: 1px solid $sci-rule;
+
+  span {
+    display: block;
+    font-family: $serif;
+    font-size: 15px;
+    line-height: 1.35;
+    color: $sci-muted;
   }
 }
 
@@ -516,9 +605,9 @@ h1, h2, h3, h4, h5, h6 {
     gap: 2.25em;
 
     .paper-box-image {
-      flex: 0 0 320px;
-      width: 320px;
-      max-width: 320px;
+      flex: 0 0 300px;
+      width: 300px;
+      max-width: 300px;
       padding-left: 0;
     }
 
@@ -529,17 +618,19 @@ h1, h2, h3, h4, h5, h6 {
       padding-left: 0;
     }
   }
+
+  .paper-box-image--placeholder { min-height: 175px; }
 }
 
 .badge {
   position: static;
   display: inline-block;
-  margin: 0 0 0.6em;
-  padding: 0.25em 0.85em;
+  margin: 0 0 0.65em;
+  padding: 0.3em 0.9em;
   font-family: $sans-serif;
   font-size: 10px;
-  font-weight: 600;
-  letter-spacing: 0.1em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: #fff;
   background-color: $sci-heading;
@@ -581,7 +672,20 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 3em;
   padding-top: 1.5em;
   border-top: 1px solid $sci-rule;
-  font-size: 12px;
-  letter-spacing: 0.04em;
-  color: $sci-body;
+  font-size: 12.5px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: $sci-muted;
 }
+
+.site-footer__credit {
+  display: inline-block;
+  margin-top: 0.5em;
+  font-size: 11.5px;
+  color: $sci-muted;
+
+  a { border-bottom-color: rgba($sci-muted, 0.4); color: inherit;
+      &:hover { color: $sci-accent; border-bottom-color: rgba($sci-accent, 0.5); } }
+}
+
+.site-footer p { font-size: 14.5px; margin: 0 0 0.5em; }

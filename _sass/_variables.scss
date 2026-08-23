@@ -51,10 +51,12 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 /* SCI palette — adapted from computationalimaging.org, accent swapped to Stony Brook red */
-$sci-accent                 : #990000; // links, buttons, active nav
+$sci-accent                 : #990000; // links, buttons, active nav   8.9:1 on white
 $sci-accent-dark            : #7a0000;
-$sci-heading                : #565347; // headings, member names
-$sci-body                   : #8A887D; // body copy, roles, captions
+$sci-heading                : #565347; // headings, member names        7.7:1
+$sci-text                   : #5F5D55; // body copy                     6.6:1
+$sci-muted                  : #6B6960; // dates, roles, captions         5.5:1
+$sci-body                   : $sci-text; // legacy alias
 $sci-band                   : #F8F6F4; // alternating section bands
 $sci-rule                   : #E3E7EA; // hairline dividers
 $sci-ink                    : #2E2D29; // strong text

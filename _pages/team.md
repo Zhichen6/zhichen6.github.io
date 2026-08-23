@@ -1,6 +1,7 @@
 ---
 permalink: /team/
 title: "Team"
+hero_image: "/images/hero.jpg"
 hero_title: "Team"
 excerpt: "The people behind the SBU AI Mobility Lab."
 ---

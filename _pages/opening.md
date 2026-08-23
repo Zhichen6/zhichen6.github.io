@@ -1,6 +1,7 @@
 ---
 permalink: /opening/
 title: "Opening"
+hero_image: "/images/hero.jpg"
 hero_title: "Opening"
 excerpt: "We are recruiting fully funded Ph.D. students for Spring or Fall 2027."
 ---
