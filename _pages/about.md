@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "SBU AI Mobility Lab"
-hero_title: "SBU AI Mobility Lab"
+title: "AI Mobility Lab @ Stony Brook"
+hero_title: "AI Mobility Lab @ Stony Brook"
 hero_tagline: "Game theory and data-driven optimization for next-generation mobility and logistics systems — connectivity, electrification, and automation."
-hero_cta_url: "/opening/"
+hero_cta_url: "/openings/"
 hero_cta_text: "We are recruiting"
 hero_image: "/images/hero.jpg"
 excerpt: "Game theory and data-driven optimization for next-generation mobility and logistics systems."
@@ -16,9 +16,9 @@ redirect_from:
 <div class="wrap">
 <div class="page__content" markdown="1">
 
-SBU AI Mobility Lab brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](/research/) for details.
+The AI Mobility Lab at Stony Brook University brings together game theory and data-driven optimization to develop **next-generation modeling and computational tools** for mobility and logistics systems, with a focus on connectivity, electrification, and automation. See [Research](/research/) for details.
 
-We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as well as motivated MS and BS students. See [Opening](/opening/) for details.
+We are recruiting **fully funded PhD students** beginning Spring/Fall 2027, as well as motivated MS and BS students. See [Openings](/openings/) for details.
 
 </div>
 </div>

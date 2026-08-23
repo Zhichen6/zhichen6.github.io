@@ -1,8 +1,10 @@
 ---
-permalink: /opening/
-title: "Opening"
+permalink: /openings/
+redirect_from:
+  - /opening/
+title: "Openings"
 hero_image: "/images/hero.jpg"
-hero_title: "Opening"
+hero_title: "Openings"
 excerpt: "We are recruiting fully funded Ph.D. students for Spring or Fall 2027."
 ---
 
@@ -15,7 +17,7 @@ excerpt: "We are recruiting fully funded Ph.D. students for Spring or Fall 2027.
 
 ## Fully Funded Ph.D. Students — Spring or Fall 2027
 
-Includes a very competitive stipend and full tuition waiver.
+The position includes a very competitive stipend and a full tuition waiver.
 
 #### Qualifications
 

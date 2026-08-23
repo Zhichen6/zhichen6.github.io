@@ -9,8 +9,8 @@ main:
   - title: "Team"
     url: "/team/"
 
-  - title: "Opening"
-    url: "/opening/"
+  - title: "Openings"
+    url: "/openings/"
 
   - title: "Connect"
     url: "/connect/"
