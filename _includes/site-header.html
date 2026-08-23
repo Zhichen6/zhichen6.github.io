@@ -1,10 +1,11 @@
 {%- comment -%}
-  The logo is used only when images/logo.png is actually present, so the header
-  falls back to the text wordmark until the file is added.
+  Uses the cropped M2 mark: the full logo's "Mobility and Machine Intelligence"
+  tagline is illegible at header size. Rendered only when the file is present,
+  so the header falls back to the text wordmark otherwise.
 {%- endcomment -%}
 {%- assign logo_src = '' -%}
 {%- for f in site.static_files -%}
-  {%- if f.path == '/images/logo.png' -%}{%- assign logo_src = f.path -%}{%- endif -%}
+  {%- if f.path == '/images/logo-mark.png' -%}{%- assign logo_src = f.path -%}{%- endif -%}
 {%- endfor -%}
 
 <header class="site-header">
@@ -15,7 +16,7 @@
       {%- endif %}
       <span class="site-header__text">
         Zhichen Liu
-        <span>M2 Lab at Stony Brook</span>
+        <span class="site-header__tagline">M2 Lab at Stony Brook</span>
       </span>
     </a>
 
