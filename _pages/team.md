@@ -3,7 +3,7 @@ permalink: /team/
 title: "Team"
 hero_image: "/images/hero.jpg"
 hero_title: "Team"
-excerpt: "The people of the Mobility and Machine Intelligence Lab at Stony Brook University — Zhichen Liu and the lab’s Ph.D. students."
+excerpt: "The people of the Mobility and Machine Intelligence Lab at Stony Brook University — Zhichen Liu, the lab’s Ph.D. students, and undergraduate researchers."
 ---
 
 <div class="page-section">
@@ -53,6 +53,17 @@ International Foundation. She serves as the area editor of *Networks and Spatial
     <span class="member-box__name">Rui Chen</span>
     <span class="member-box__role">Ph.D. Student</span>
     <p class="member-box__bio">Rui Chen received her Master's degree in Logistics Engineering and Management from Tsinghua University in 2023, and her Bachelor's degree from Central South University. She joined the lab as a Ph.D. student in Fall 2026. Previously, she worked as an algorithm engineer focusing on dispatch and optimization for shared bicycle systems. Her research interests include operations research, reinforcement learning, and intelligent transportation systems.</p>
+  </li>
+</ul>
+
+<h2 class="page-title" style="margin-top:3.5em;">Undergraduate Researchers</h2>
+
+<ul class="member-list">
+  <li class="member-box">
+    <img class="member-box__photo" src="/images/evelyn.jpg" alt="Evelyn Sun">
+    <span class="member-box__name">Evelyn Sun</span>
+    <span class="member-box__role">Undergraduate Researcher</span>
+    <p class="member-box__bio">Evelyn Sun is a senior at Stony Brook University studying Computer Science and Applied Mathematics &amp; Statistics, specializing in Artificial Intelligence and Data Science. She is passionate about using technology to solve real-world problems, with experience in software development, machine learning, research, and fintech. Beyond academics, Evelyn serves as President of the Women in Science and Engineering Honors Program and Secretary of the Tau Beta Pi Engineering Honor Society. She is currently researching autonomous vehicles and human interaction in traffic settings, and loves swimming.</p>
   </li>
 </ul>
 

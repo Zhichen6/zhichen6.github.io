@@ -5,7 +5,7 @@ redirect_from:
 title: "Openings"
 hero_image: "/images/hero.jpg"
 hero_title: "Openings"
-excerpt: "Fully funded Ph.D. positions for Spring and Fall 2027 in the M2 Lab at Stony Brook University, plus M.S. and undergraduate research opportunities."
+excerpt: "Fully funded Ph.D. positions for Fall 2027 in the M2 Lab at Stony Brook University, plus M.S. and undergraduate research opportunities."
 ---
 
 <div class="page-section">
@@ -15,7 +15,7 @@ excerpt: "Fully funded Ph.D. positions for Spring and Fall 2027 in the M2 Lab at
 
 <div class="page__content" markdown="1">
 
-## Fully Funded Ph.D. Students — Spring or Fall 2027
+## Fully Funded Ph.D. Students — Fall 2027
 
 The position includes a very competitive stipend and a full tuition waiver.
 
@@ -34,9 +34,7 @@ The position includes a very competitive stipend and a full tuition waiver.
 
 - For students who have reached out, I carefully read every application and truly appreciate the time and effort you put into preparing your materials. Due to the large number of applications, only shortlisted candidates will be contacted for the next steps. I apologize for not being able to reply to everyone individually.
 - Admission is on a rolling basis. If this information is still posted here, the application is still open.
-- **Application deadlines** — see [CEE graduate admissions](https://www.stonybrook.edu/civileng/academics/graduate/admissions/index.html) for the official schedule:
-    - *Spring 2027*: October 1, 2026 (international) · December 1, 2026 (domestic)
-    - *Fall 2027*: January 15, 2027 (priority) · May 1, 2027 (international) · July 15, 2027 (domestic)
+- **Application deadlines** for Fall 2027 — see [CEE graduate admissions](https://www.stonybrook.edu/civileng/academics/graduate/admissions/index.html) for the official schedule: January 15, 2027 (priority) · May 1, 2027 (international) · July 15, 2027 (domestic).
 - Our department has openings for the GAANN fellowship program. The prospective student can choose any Civil Engineering faculty member to be their academic advisor. Contact me if you are interested and eligible to apply.
 
 ---
