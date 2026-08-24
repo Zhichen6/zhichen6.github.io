@@ -20,7 +20,7 @@
 
 <meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
 <meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="{{ site.title }} | {{ site.lab_short }}">
+<meta property="og:site_name" content="{{ site.lab_name }}">
 <meta property="og:title" content="{{ seo_title | escape_once }}">
 <meta property="og:description" content="{{ seo_description }}">
 <meta property="og:url" content="{{ canonical_url }}">
@@ -92,6 +92,7 @@
       "@id": "{{ seo_url }}/#website",
       "url": "{{ seo_url }}/",
       "name": "{{ site.lab_name }}",
+      "alternateName": "{{ site.lab_short }}",
       "publisher": { "@id": "{{ seo_url }}/#person" }
     }
   ]
