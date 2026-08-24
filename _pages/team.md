@@ -62,8 +62,15 @@ International Foundation. She serves as the area editor of *Networks and Spatial
   <li class="member-box">
     <img class="member-box__photo" src="/images/evelyn.jpg" alt="Evelyn Sun">
     <span class="member-box__name">Evelyn Sun</span>
-    <span class="member-box__role">Undergraduate Researcher</span>
+    <span class="member-box__role">Undergraduate Student</span>
     <p class="member-box__bio">Evelyn Sun is a senior at Stony Brook University studying Computer Science and Applied Mathematics &amp; Statistics, specializing in Artificial Intelligence and Data Science. She is passionate about using technology to solve real-world problems, with experience in software development, machine learning, research, and fintech. Beyond academics, Evelyn serves as President of the Women in Science and Engineering Honors Program and Secretary of the Tau Beta Pi Engineering Honor Society. She is currently researching autonomous vehicles and human interaction in traffic settings, and loves swimming.</p>
+  </li>
+
+  <li class="member-box">
+    <img class="member-box__photo" src="/images/charlotte.jpg" alt="Charlotte Cain">
+    <span class="member-box__name">Charlotte Cain</span>
+    <span class="member-box__role">Undergraduate Student</span>
+    <p class="member-box__bio">Charlotte Cain is a senior at Stony Brook University studying Computer Science and Applied Mathematics and Statistics, with a specialization in Data Science and Artificial Intelligence. She is planning to pursue a Ph.D. in Computer Science, with interest in interdisciplinary research on the effects of AI. She is currently researching students' use of generative AI chatbots using natural language processing. Beyond academics, Charlotte is the Corresponding Secretary for the Tau Beta Pi Engineering Honor Society and the Outreach Coordinator for Paper Airplanes Volunteer Tutoring. She is also an avid knitter and loves to travel.</p>
   </li>
 </ul>
 
