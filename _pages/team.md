@@ -56,7 +56,7 @@ International Foundation. She serves as the area editor of *Networks and Spatial
   </li>
 </ul>
 
-<h2 class="page-title" style="margin-top:3.5em;">Undergraduate Researchers</h2>
+<h2 class="page-title" style="margin-top:3.5em;">Undergraduate Students</h2>
 
 <ul class="member-list">
   <li class="member-box">
