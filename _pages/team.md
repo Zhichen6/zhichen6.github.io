@@ -72,6 +72,13 @@ International Foundation. She serves as the area editor of *Networks and Spatial
     <span class="member-box__role">Undergraduate Student</span>
     <p class="member-box__bio">Charlotte Cain is a senior at Stony Brook University studying Computer Science and Applied Mathematics and Statistics, with a specialization in Data Science and Artificial Intelligence. She is planning to pursue a Ph.D. in Computer Science, with interest in interdisciplinary research on the effects of AI. She is currently researching students' use of generative AI chatbots using natural language processing. Beyond academics, Charlotte is the Corresponding Secretary for the Tau Beta Pi Engineering Honor Society and the Outreach Coordinator for Paper Airplanes Volunteer Tutoring. She is also an avid knitter and loves to travel.</p>
   </li>
+
+  <li class="member-box">
+    <img class="member-box__photo" src="/images/jacqueline.jpg" alt="Jacqueline Louie">
+    <span class="member-box__name">Jacqueline Louie</span>
+    <span class="member-box__role">Undergraduate Student</span>
+    <p class="member-box__bio">Jacqueline Louie is a senior studying Computer Science and Philosophy, interested in the intersection of data science, artificial intelligence, and technology governance in relation to critical infrastructure. She plans to pursue a master's degree and possibly a Ph.D. to further explore these interconnected fields. She is currently researching human-AV interactions in traffic environments, with the goal of informing traffic policy. She also serves as President of Tau Beta Pi, the national engineering honor society. In her free time, she enjoys reading literary fiction, swimming, and nail art.</p>
+  </li>
 </ul>
 
 </div>
