@@ -23,9 +23,10 @@ excerpt: "Selected papers by Zhichen Liu in Transportation Science and Transport
 <div class="paper-box">
   <div class="paper-box-image"><img src="/images/ssrn_2025.png" alt="Forward problem and its primal and dual inverse problem formulations" onerror="this.parentNode.className='paper-box-image paper-box-image--placeholder';this.outerHTML='&lt;span&gt;Working paper&lt;br&gt;SSRN &amp;middot; 2025&lt;/span&gt;'"></div>
   <div class="paper-box-text">
-    <div class="badge">Working Paper 2025</div>
-    <a class="paper-title" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5995274" target="_blank" rel="noopener">Constructing transportation network equilibrium models from empirical data: An inverse learning perspective</a>
-    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, <em>SSRN Working Paper 5995274</em>, 2025</p>
+    <div class="badge">Transportation Research Part B 2026</div>
+    <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0191261526002092" target="_blank" rel="noopener">Constructing transportation network equilibrium models from empirical data: An inverse learning perspective</a>
+    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, <em>Transportation Research Part B: Methodological</em>, 2026</p>
+    <p class="paper-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5995274" target="_blank" rel="noopener">SSRN</a></p>
   </div>
 </div>
 
