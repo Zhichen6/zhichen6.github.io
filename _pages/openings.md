@@ -3,7 +3,7 @@ permalink: /openings/
 redirect_from:
   - /opening/
 title: "Openings"
-hero_image: "/images/hero.jpg"
+hero_image: "/images/site/hero.jpg"
 hero_title: "Openings"
 excerpt: "Fully funded Ph.D. positions for Fall 2027 in the M2 Lab at Stony Brook University, plus M.S. and undergraduate research opportunities."
 ---

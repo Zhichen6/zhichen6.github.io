@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhichen Liu"
-  avatar           : "images/avatar.jpg"
+  avatar           : "images/team/avatar.jpg"
   bio              : "Stony Brook University"
   location         : "Stony Brook, New York"
   employer         :

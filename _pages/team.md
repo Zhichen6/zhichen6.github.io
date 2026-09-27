@@ -1,7 +1,7 @@
 ---
 permalink: /team/
 title: "Team"
-hero_image: "/images/hero.jpg"
+hero_image: "/images/site/hero.jpg"
 hero_title: "Team"
 excerpt: "The people of the Mobility and Machine Intelligence Lab at Stony Brook University — Zhichen Liu, the lab’s Ph.D. students, and undergraduate researchers."
 ---
@@ -15,7 +15,7 @@ excerpt: "The people of the Mobility and Machine Intelligence Lab at Stony Brook
 
 <ul class="member-list">
   <li class="member-box">
-    <img class="member-box__photo" src="/images/avatar.jpg" alt="Zhichen Liu">
+    <img class="member-box__photo" src="/images/team/avatar.jpg" alt="Zhichen Liu">
     <span class="member-box__name">Zhichen Liu</span>
     <span class="member-box__role">Assistant Professor</span>
   </li>
@@ -34,7 +34,10 @@ Scientist at General Motors.
 
 Dr. Liu is a recipient of the Rackham Predoctoral Fellowship and was honored as the sole global
 awardee of the prestigious Helene M. Overly Memorial Scholarship (2025) by the WTS
-International Foundation. She serves as the area editor of *Networks and Spatial Economics*.
+International Foundation. She was also the recipient of the HKSTS Outstanding Dissertation Award
+cum Gordon Newell Memorial Prize (2026); see her
+[extended abstract](/images/publications/ExtendedAbstract.pdf){:target="_blank" rel="noopener"}.
+She serves as the area editor of *Networks and Spatial Economics*.
 
 </div>
 
@@ -42,14 +45,14 @@ International Foundation. She serves as the area editor of *Networks and Spatial
 
 <ul class="member-list">
   <li class="member-box">
-    <img class="member-box__photo" src="/images/zhanyu.png" alt="Zhanyu Feng">
+    <img class="member-box__photo" src="/images/team/zhanyu.png" alt="Zhanyu Feng">
     <span class="member-box__name">Zhanyu Feng</span>
     <span class="member-box__role">Ph.D. Student</span>
     <p class="member-box__bio">Zhanyu Feng received his B.S. degree in Traffic and Transportation from Hefei University of Technology in 2022, and his M.S. degree in Communication and Transportation from Southeast University. Prior to joining the M2 Lab, he served as a Research Assistant at NYU Shanghai. His research focuses on decision-focused learning, transportation network modeling, and optimization and control for connected and autonomous electric vehicles.</p>
   </li>
 
   <li class="member-box">
-    <img class="member-box__photo" src="/images/rui.png" alt="Rui Chen">
+    <img class="member-box__photo" src="/images/team/rui.png" alt="Rui Chen">
     <span class="member-box__name">Rui Chen</span>
     <span class="member-box__role">Ph.D. Student</span>
     <p class="member-box__bio">Rui Chen received her Master's degree in Logistics Engineering and Management from Tsinghua University in 2023, and her Bachelor's degree from Central South University. She joined the lab as a Ph.D. student in Fall 2026. Previously, she worked as an algorithm engineer focusing on dispatch and optimization for shared bicycle systems. Her research interests include operations research, reinforcement learning, and intelligent transportation systems.</p>
@@ -60,21 +63,21 @@ International Foundation. She serves as the area editor of *Networks and Spatial
 
 <ul class="member-list">
   <li class="member-box">
-    <img class="member-box__photo" src="/images/evelyn.jpg" alt="Evelyn Sun">
+    <img class="member-box__photo" src="/images/team/evelyn.jpg" alt="Evelyn Sun">
     <span class="member-box__name">Evelyn Sun</span>
     <span class="member-box__role">Undergraduate Student</span>
     <p class="member-box__bio">Evelyn Sun is a senior at Stony Brook University studying Computer Science and Applied Mathematics &amp; Statistics, specializing in Artificial Intelligence and Data Science. She is passionate about using technology to solve real-world problems, with experience in software development, machine learning, research, and fintech. Beyond academics, Evelyn serves as President of the Women in Science and Engineering Honors Program and Secretary of the Tau Beta Pi Engineering Honor Society. She is currently researching autonomous vehicles and human interaction in traffic settings, and loves swimming.</p>
   </li>
 
   <li class="member-box">
-    <img class="member-box__photo" src="/images/charlotte.jpg" alt="Charlotte Cain">
+    <img class="member-box__photo" src="/images/team/charlotte.jpg" alt="Charlotte Cain">
     <span class="member-box__name">Charlotte Cain</span>
     <span class="member-box__role">Undergraduate Student</span>
     <p class="member-box__bio">Charlotte Cain is a senior at Stony Brook University studying Computer Science and Applied Mathematics and Statistics, with a specialization in Data Science and Artificial Intelligence. She is planning to pursue a Ph.D. in Computer Science, with interest in interdisciplinary research on the effects of AI. She is currently researching students' use of generative AI chatbots using natural language processing. Beyond academics, Charlotte is the Corresponding Secretary for the Tau Beta Pi Engineering Honor Society and the Outreach Coordinator for Paper Airplanes Volunteer Tutoring. She is also an avid knitter and loves to travel.</p>
   </li>
 
   <li class="member-box">
-    <img class="member-box__photo" src="/images/jacqueline.jpg" alt="Jacqueline Louie">
+    <img class="member-box__photo" src="/images/team/jacqueline.jpg" alt="Jacqueline Louie">
     <span class="member-box__name">Jacqueline Louie</span>
     <span class="member-box__role">Undergraduate Student</span>
     <p class="member-box__bio">Jacqueline Louie is a senior studying Computer Science and Philosophy, interested in the intersection of data science, artificial intelligence, and technology governance in relation to critical infrastructure. She plans to pursue a master's degree and possibly a Ph.D. to further explore these interconnected fields. She is currently researching human-AV interactions in traffic environments, with the goal of informing traffic policy. She also serves as President of Tau Beta Pi, the national engineering honor society. In her free time, she enjoys reading literary fiction, swimming, and nail art.</p>

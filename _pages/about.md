@@ -5,7 +5,7 @@ hero_title: "Mobility and Machine Intelligence Lab"
 hero_tagline: "Game theory and data-driven optimization for next-generation mobility and logistics systems — connectivity, electrification, and automation."
 hero_cta_url: "/openings/"
 hero_cta_text: "We are recruiting"
-hero_image: "/images/hero.jpg"
+hero_image: "/images/site/hero.jpg"
 excerpt: "Mobility and Machine Intelligence Lab (M2 Lab) at Stony Brook University, led by Zhichen Liu — game theory and data-driven optimization for mobility systems."
 redirect_from:
   - /about/

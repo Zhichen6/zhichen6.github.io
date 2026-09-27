@@ -12,7 +12,7 @@
 {%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
 {%- assign seo_description = seo_description | markdownify | strip_html | strip_newlines | strip | escape_once -%}
 
-{%- assign seo_image = page.og_image | default: '/images/hero.jpg' | prepend: seo_url -%}
+{%- assign seo_image = page.og_image | default: '/images/site/hero.jpg' | prepend: seo_url -%}
 
 <title>{{ seo_title | escape_once }}</title>
 <meta name="description" content="{{ seo_description }}">
@@ -80,7 +80,7 @@
       "name": "{{ site.lab_name }}",
       "alternateName": "{{ site.lab_short }} at Stony Brook",
       "url": "{{ seo_url }}/",
-      "logo": "{{ seo_url }}/images/logo.png",
+      "logo": "{{ seo_url }}/images/site/logo.png",
       "parentOrganization": {
         "@type": "CollegeOrUniversity",
         "name": "{{ site.institution }}"
