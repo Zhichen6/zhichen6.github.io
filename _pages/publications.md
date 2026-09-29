@@ -16,7 +16,7 @@ excerpt: "Selected papers by Zhichen Liu in Transportation Science and Transport
   <div class="paper-box-text">
     <div class="badge">Transportation Research Part B 2026</div>
     <a class="paper-title" href="https://www.sciencedirect.com/science/article/pii/S0191261526000755" target="_blank" rel="noopener">Large-scale inverse learning of user equilibrium via multiconvex optimization</a>
-    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, Xi Lin, Zhen Wang, <em>Transportation Research Part B: Methodological</em>, 2026</p>
+    <p class="paper-authors"><strong>Zhichen Liu</strong>, Yafeng Yin, Xi Lin, Zihao Wang, <em>Transportation Research Part B: Methodological</em>, 2026</p>
   </div>
 </div>
 
