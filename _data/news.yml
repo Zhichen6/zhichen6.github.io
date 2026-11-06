@@ -1,6 +1,15 @@
 # Newest first is not required — the page sorts by date.
 # Items older than 18 months move into the "Earlier news" archive automatically.
 
+- date: 2026-11-05
+  body: >-
+    We are honored to share that our paper
+    <a href="https://pubsonline.informs.org/doi/abs/10.1287/trsc.2023.0489" target="_blank" rel="noopener">End-to-End
+    Learning of User Equilibrium: Expressivity, Generalization, and
+    Optimization</a> has received the <strong>2025 <em>Transportation Science</em>
+    Paper of the Year Award</strong> in the Traffic, Demand, and Networks topical
+    area.
+
 - date: 2026-09-27
   body: >-
     We are pleased to share that
